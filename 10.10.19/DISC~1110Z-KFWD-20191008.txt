@@ -1,0 +1,153 @@
+000
+FXUS64 KFWD 081110 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+610 AM CDT Tue Oct 8 2019
+
+.AVIATION...
+/12Z TAFs/
+
+VFR with light winds. Southeast flow returning today.
+
+The axis of our postfrontal surface high will gradually transit
+the region today. Although it may take another several hours for a
+consistent southerly component to be established, the interim wind
+speeds should be light enough to permit south flow throughout the
+morning push. Some cirrus will arrive from the west this evening,
+but the boundary layer will remain free of clouds today and
+tonight.
+
+Wind speeds will increase on Wednesday with a corresponding uptick
+in low-level moisture. However, daytime CU will be primarily
+confined to Central and East Texas.
+
+25
+
+&&
+
+.DISCUSSION... /Issued 338 AM CDT Tue Oct 8 2019/
+Forecast highlights include a warm midweek period, followed by a
+strong cold front set to arrive late Thursday. This front will
+bring a chance for some strong or severe storms, followed by a
+massive temperature drop to end the week. A pleasant weekend
+should follow.
+
+We`re experiencing the coolest temperatures since May this morning
+with most of the forecast area beginning the day in the 50s. A few
+notoriously cool locales in low terrain have managed to drop into
+the mid to upper 40s thanks to light winds, clear skies, and low
+dewpoints. However, the return of east/southeast winds today will
+allow a warming trend to ensue, and high temperatures will return
+to the 80s for most locations. With moisture absent from the
+area, skies will remain clear.
+
+An upper disturbance currently pivoting through southern Nevada
+will drift eastward over the next couple of days. This feature
+will act to intensify low-level southerly flow, which in turn
+will cause higher dewpoints to advect northward. In addition, this
+disturbance should be capable of initiating some elevated
+convection across parts of the Texas Panhandle and Oklahoma on
+Wednesday morning. At this time, am expecting all of this activity
+to remain north of the forecast area, although it may serve to
+increase mid/high cloud cover across North Texas during the day.
+With stronger southerly flow in place, high temperatures will
+climb back above normal after our brief taste of fall, with mid
+80s to low 90s commonplace on Wednesday afternoon.
+
+As the lead disturbance continues an eastward trek towards the
+Midwest, a potent upper trough will dig southward across the
+Rockies and into the Central Plains on Thursday. This will prompt
+strong lee cyclogenesis in western Kansas, plunging the system`s
+associated cold front southward. In advance of this system, North
+Texas will be positioned within a classic warm advection regime,
+with moisture continuing to increase through Thursday. Resultant
+warm advection should lead to a round of morning stratus, and
+perhaps a few warm advection showers across parts of North Texas.
+By late Thursday afternoon, the front should be on our doorstep,
+set to dive through the forecast area Thursday night into Friday.
+Warming ahead of the front will allow above normal temperatures to
+continue, with highs near 90 across much of the area. Some
+discrepancies on the front`s timing still exist, and will
+continue to be refined over the next couple of days.
+
+By the time the front arrives, fairly widespread convection should
+already be underway through parts of Oklahoma and northwestern
+Texas. At this time, it appears the potential for any open warm
+sector convection preceding the front is quite low due to a strong
+cap from the aforementioned warm advection along with a lack of
+forcing. Most of the upper-level dynamic ascent will remain well
+north of the area. This should confine most of our convective
+chances to thunderstorms immediately along and just behind the
+front as the boundary dives southward. The overall parameter space
+ahead of the front will be characterized by large instability
+given the above normal temperatures and mid 60s dewpoints in
+place. In addition, shear will be on the increase as mid-level
+winds intensify with the approaching upper trough. This will
+support at least some threat for strong to severe storms across
+North Texas late Thursday, but the overall severe threat appears
+to be limited for a few reasons. First, storm motion and deep-
+layer shear vectors should be oriented rather parallel to the
+boundary. This should imply fairly rapid upscale growth, and a
+tendency for developing surface-based convection to be undercut
+quickly. Second, as previously discussed, the front will largely
+be operating alone in terms of ascent without aid from strong
+dynamic ascent to reduce any residual capping or steepen lapse
+rates. Lastly, conditions should become marginally less favorable
+for surface-based convection as we progress into the evening hours
+with a cooling boundary layer. Will advertise a risk for
+strong/severe winds in case any organized bowing segments can
+exist immediately along the boundary. In addition, a hail threat
+could exist if an elevated rotating storm can survive behind the
+front. The tornado potential appears rather low with an expected
+poor orientation of the low-level shear vector to any linear
+convective structures. Most of the forecast is expected to see at
+least a small amount of rain with this system, but its rather fast
+progression should limit totals, as well as the potential for
+flooding.
+
+Otherwise, the cold front will be accompanied by a significant
+temperature and humidity drop heading into Friday. Initially,
+light stratiform rain may exist following the front`s passage, but
+the arrival of very dry air should limit its duration. North
+winds of 20-30 mph should exist behind the front and continue into
+Friday as a stout 1028mb high builds across the Southern Plains.
+Strong cold advection and lingering cloud cover could prevent
+parts of North Texas from climbing out of the 50s on Friday, which
+would be a temperature drop of over 30 degrees from Thursday`s
+expected highs. All precipitation should cease by Friday night,
+leaving a crisp and cool Saturday morning area-wide. Most
+locations will be in the 40s to begin the weekend, with even some
+upper 30s possible across the northwest. A pleasant and dry
+weekend should be in store as temperatures gradually moderate.
+Guidance diverges heading into next week, although it does appear
+some rain chances will return on Monday and Tuesday. A warm front
+should lift northward during this time, and moisture will be on
+the increase with the return of southerly flow.
+
+-Stalley
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    82  62  88  72  91 /   0   0  10   0  20
+Waco                83  57  91  71  94 /   0   0   0   0   5
+Paris               77  54  81  63  84 /   0   0   5   5  10
+Denton              80  56  86  70  90 /   0   0  10   5  20
+McKinney            80  54  86  69  88 /   0   0  10   0  20
+Dallas              82  62  88  73  91 /   0   0  10   0  10
+Terrell             81  54  87  70  91 /   0   0   0   0   5
+Corsicana           82  56  86  69  91 /   0   0   0   0   5
+Temple              83  58  90  72  93 /   0   0   0   0   5
+Mineral Wells       81  56  89  70  90 /   0   0   5   0  20
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+25/26

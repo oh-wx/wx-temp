@@ -1,0 +1,153 @@
+000
+FXUS64 KFWD 171242 CCA
+AFDFWD
+
+Area Forecast Discussion...CORRECTED
+National Weather Service Fort Worth TX
+742 AM CDT Thu Oct 17 2019
+
+
+.AVIATION...
+/12z TAFs/
+
+Concerns and challenges: None...VFR with BKN-OVC300 through 21z-
+00z, becoming SKC tonight. Calm winds this morning becoming SE 5
+knots or less by 18z and after.
+
+Dry NE low level flow slowly veers SE by this afternoon. A cut
+off upper low over W TX will continue to produce plentiful cirrostratus
+over the region the majority of the day. As this system shifts
+E across S TX through the day and the surface high shifts E toward
+the MS/TN/OH valleys, skies will clear with winds coming around to
+a light SE. No precipitation is expected the next 24-30 hours.
+
+05/
+
+&&
+
+
+.SHORT TERM... /Issued 300 AM CDT Thu Oct 17 2019/
+/Today and Tonight/
+
+A broad surface high pressure ridge was extended southwest across
+the area this morning from the Mid Mississippi Valley. This has
+resulted in near calm winds with a very cool start to your Thursday.
+Many areas will start off in the 40s, except your typical heat
+island areas that will likely remain in the lower 50s. If not for
+plentiful cirrostratus draped overhead in advance of a closed mid
+level low over the Trans Pecos region mitigating radiational
+cooling to an extent, it`s likely not as chilly as it could`ve
+been. The mid level low will slowly migrate east today across
+South Texas, as it is forced eastward in response to deep mid
+level energy digging southeast from British Columbia into the
+Pacific Northwest and Northern Rockies today.
+
+About the only effect from our closed low will be an gradual
+eastward progression of the high cloud canopy overhead with a very
+dry airmass noted below 600mb. There may be a little mid level
+moisture near our far southern Central Texas counties that some
+virga may be observed through the day. Otherwise, the surface high
+will shift east away from our area as well with light south-
+southeast winds returning across much of the area by this evening.
+Despite this, the high cloud canopy will be slow to clear especially
+across our southern and eastern counties. This should be enough
+to keep highs down in the lower 70s there...while highs this
+afternoon push 80 degrees across the far northwest counties where
+more clearing and insolation will be realized sooner.
+
+Skies will clear in wake of our departing mid level low exiting
+east toward the Central Gulf Coastal area tonight. South winds
+will increase in response to rapid pressure falls along the lee of
+the Rockies in advance of the aforementioned Western CONUS mid
+level trough organizing over the Western CONUS. Despite the
+increasing south winds, the dry airmass in place and better set up
+for radiational cooling will likely result in yet one more cool
+morning Friday with temperatures starting out the day between lows
+45 to 55 degrees.
+
+05/
+
+&&
+
+.LONG TERM... /Issued 300 AM CDT Thu Oct 17 2019/
+/Friday through Thursday/
+Southerly flow and generally sunny skies will prevail over the
+region on Friday allowing temperatures to warm into the mid 80s
+in the western zones to the mid 70s in the east. This will send
+relative humidity down to near 30 percent and could result in a
+heightened grass fire risk on Friday afternoon over the western
+zones where fuels are the driest. As an upper level trough moves
+through the Southern Plains Friday night, it drags a weak cold
+front through our area Saturday morning. Ahead of the front higher
+moisture will stream northward resulting in some above normal
+overnight lows in the 60s, but drier air will quickly return to
+the region behind the front. As a result, a pleasant, but mild
+Saturday is forecast with highs in the 80s and lots of sunshine.
+While a few early morning showers can`t be ruled out across the
+Red River counties with the front, it is more likely that this
+activity will stay in Oklahoma where better large scale forcing
+occurs.
+
+The weak Saturday front will reach the Texas coast by Sunday
+morning and then retreat northward during the day as a much
+stronger upper level trough begins to deepen across the central
+part of the country. Surface pressure falls will result in
+increasing southerly winds of 10 to 20 mph by afternoon. While
+large scale forcing for ascent will begin to overspread the region
+Sunday afternoon, the return of moisture and instability will lag
+behind due to the impacts of the Saturday front. This means fire
+weather conditions may approach critical levels across the western
+zones where highs should exceed 90. The remainder of the region
+should see highs in the 80s but have slightly higher RH. The
+prospects for rain will likely hold off until after sunset Sunday
+for most of the region when moisture finally increases and
+results in enough instability for primarily elevated convection.
+
+The chances of showers and storms will be best across the eastern
+areas where rain will be likely, but PoPs taper down to just a
+low chance in the western zones where moisture will not have as
+much time to return ahead of the cold front. A low severe weather
+risk appears to be present, mainly east of I-35, but surface
+based convection looks unlikely. A strongly sheared airmass and
+modest amounts of elevated instability do suggest a low-end hail
+threat. Convection associated with the trough and front will be
+most likely around and after midnight Sunday night, clearing from
+northwest to southeast Monday morning. Rain amounts should
+average a tenth of an inch in the west to 1 inch in the east.
+
+Slightly cooler conditions will return Monday with breezy
+northwesterly winds and highs in the 70s as skies clear during the
+day. Good radiational cooling will result in cool low temps on
+Monday night in the 40s. Generally pleasant and seasonable
+weather will prevail Tuesday into Wednesday with gradually
+moderating temperatures in dry northwest flow aloft. By Thursday
+the next trough will begin to deepen again across the Plains which
+should bring southerly winds back and increasing moisture ahead
+of the next front and chance of rain Friday morning.
+
+
+TR.92
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    75  54  79  63  84 /   0   0   0  10   5
+Waco                73  50  82  63  89 /   0   0   0   5   0
+Paris               71  47  74  55  79 /   0   0   0  10   5
+Denton              75  51  79  62  84 /   0   0   0  10   5
+McKinney            74  49  77  60  84 /   0   0   0  10   5
+Dallas              76  55  79  64  85 /   0   0   0   5   5
+Terrell             74  49  79  61  86 /   0   0   0   5   5
+Corsicana           73  50  77  61  86 /   0   0   0   5   0
+Temple              73  51  81  63  89 /   0   0   0   5   0
+Mineral Wells       77  49  82  62  84 /   0   0   0   5   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+05/92

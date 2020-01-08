@@ -1,0 +1,145 @@
+000
+FXUS61 KILN 161809
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+109 PM EST Mon Dec 16 2019
+
+.SYNOPSIS...
+Another upper level disturbance will pass northeast through the
+region in concert with southwest flow through a deep layer,
+initiating more rain this afternoon that will mix with and
+change to snow from northwest to southeast starting this
+evening. The axis of the upper trough will cross the region
+early Tuesday, ending any lingering snow and ushering in colder
+air behind a surface cold front Tuesday night.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Precipitation is spreading quickly to the northeast this
+afternoon. Have adjusted PoPs accordingly. Also, looks like
+there could be a little more snow across the Whitewater Valley
+into the Dayton metro for late this afternoon into this evening.
+Have raised overall snow totals in this area to 2-4 inches.
+
+Previous discussion --->
+
+Scattered pcpn in the south and southeast will increase in
+coverage and lift north and northeast this afternoon as a low
+level jet approaches the region from the south. This will
+eventually result in snow across our far northwest, rain/snow
+mix in the middle, and all rain elsewhere. Highs will range from
+th mid 30s north to the lower 40s south.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM TUESDAY/...
+Surface energy will pass south of the area this evening and
+then northeast along the spine of the Appalachians tonight. As
+it does, colder air will be pulled in from the north and any
+rain will change to snow from northwest to southeast overnight.
+A period of freezing rain is possible nearest the I-71 corridor
+where a half inch to inch of additional snow is possible
+tonight. Northwest of this corridor, snow will be more prevalent
+for a longer period of time and 1-3 inches are expected here.
+The better axis of 2-3 inches should occur from a line that
+extends northeast from Richmond to Piqua to West Liberty, and
+Richwood.
+
+Ice accumulations will generally be light and should only amount
+to a glaze but the thermodynamics and timing of how the
+atmosphere will cool and in which layers remain in a state of
+flux.
+
+Temperatures have not been changed much with highs today in the
+35-40 range and lows tonight within 2-3 degrees of 30, coolest
+in the northwest. Tuesday will be cooler but not markedly so
+given the ample cloud cover. Cold air will funnel into the
+region and high temperatures may occur after midnight tonight.
+However, models are suggesting that insolation through the
+course of the day and the drier air may permit readings to reach
+back to what they were at the beginning of the day. Regardless,
+we are only looking for a 5-8 degree variance in temperatures
+from today through Tuesday, including overnight lows.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH MONDAY/...
+Upper low diving southeast across Ontario into New England at
+the beginning of the period will push a cold front across the
+region late Tuesday night into Wednesday morning. Cannot rule
+out a few snow showers in central and west central Ohio being
+somewhat closer to the stronger forcing. But probability is low
+and so have just included some flurries.
+
+High pressure will build in behind the front and the pass off
+to the east on Thursday as upper heights rise. Temperatures will
+be cold, especially Wednesday night into Thursday morning as
+there should be very good radiational cooling conditions. But
+readings will start to moderate late in the week.
+
+A mid level trough will pass across the area with maybe a weak
+surface reflection grazing the region. This will just bring an
+increase in clouds. Heights will start to build again on Sunday
+with west to southwest low level flow. Thus expect above normal
+temperatures over the weekend.
+
+&&
+
+.AVIATION /18Z MONDAY THROUGH SATURDAY/...
+A messy TAF forecast is in store fore the next 18 hours with
+conditions improving thereafter.
+
+An embedded disturbance will move from the southern Plains to
+the western Ohio Valley this afternoon into Tuesday morning. An
+associated area of low pressure over northern Louisiana will
+also move northeast into the Tennessee Valley tonight, then
+toward the mid Atlantic region by Tuesday morning. These
+features will bring precipitation to our region. Temperatures at
+the surface and aloft will be critical to precipitation type. As
+of now, precipitation should fall mainly as rain at KCVG/KLUK
+with some freezing rain possible toward the tail end late
+tonight into Tuesday morning. Farther north, KILN is a little
+tricky given that it will be near the freezing mark. Have
+started out as rain with freezing rain occurring later tonight.
+Will monitor. KCMH/KLCK will see a rain/snow mix, perhaps rain,
+then some freezing rain on the tail end late tonight into
+Tuesday. For KDAY, a period of snow, possible moderate, is
+expected late this afternoon into this evening. Snow will mix
+with freezing rain or perhaps change to all freezing rain
+overnight before tapering off Tuesday morning. Ceilings and
+visibilities will range between IFR and LIFR with more IFR
+ceilings and MVFR visibilities as we transition into the 06Z to
+12Z Tuesday time frame. Winds will back with time and increase
+from the north with gusts in the 20 to 25 knot range possible.
+
+On Tuesday, as the system moves away, low level clouds will
+gradually shift and erode during the morning into the afternoon.
+We will see a return to VFR conditions during this period.
+
+OUTLOOK...MVFR ceilings possible Tuesday night into Wednesday.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...Winter Weather Advisory from 4 PM this afternoon to 10 AM EST
+     Tuesday for OHZ026-034-035-042>046-051>056-060>062.
+     Winter Weather Advisory from 11 PM this evening to 10 AM EST
+     Tuesday for OHZ063>065-070>073-077-078-080.
+KY...Winter Weather Advisory from 11 PM this evening to 10 AM EST
+     Tuesday for KYZ089>093.
+IN...Winter Weather Advisory from 4 PM this afternoon to 10 AM EST
+     Tuesday for INZ050-058-059-066.
+     Winter Weather Advisory from 11 PM this evening to 10 AM EST
+     Tuesday for INZ073>075-080.
+
+&&
+
+$$
+SYNOPSIS...Franks
+NEAR TERM...Franks/Hickman
+SHORT TERM...Franks
+LONG TERM...
+AVIATION...Hickman

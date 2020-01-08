@@ -1,0 +1,214 @@
+000
+FXUS64 KFWD 261208 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+608 AM CST Tue Nov 26 2019
+
+.AVIATION...
+/12Z TAFs/
+
+Concerns...
+(1) low-level wind shear this morning
+(2) virga with sub-cloud turbulence
+(3) multiple wind shifts
+(4) crosswind potential this evening
+
+A strong (but dry) low-level jet has introduced some low-level
+wind shear this morning. The sharp boundary at the base of the jet
+will gradually erode later this morning as this momentum is mixed
+over a greater depth. This will also bring the stronger winds to
+the surface, the gusts prevailing through the afternoon. Although
+a dryline will approach, it will likely remain west of our TAF
+sites. The surface flow will veer, but a wind shift to the west is
+not anticipated until this evening. A brief window of minor
+crosswind issues will occur between the dryline`s passage and the
+eventual cold front that will shift the winds to the northwest.
+
+Virga will accompany a passing disturbance aloft this morning.
+The descending mid deck is evidence of this lift, but the dry
+sub-cloud layer should prevent sprinkles from reaching the
+surface. However, the evaporation of these hydrometeors will
+result in turbulence, primarily FL070-120.
+
+25
+
+&&
+
+.SHORT TERM... /Issued 433 AM CST Tue Nov 26 2019/
+/Today and Tonight/
+
+An upper low will steadily deepen as it emerges from the Rockies
+today. Its approach has already drawn a tropical plume of high
+clouds across the Lone Star State, but the layer within 3-4 miles
+of the surface remains very dry. VWP data from KFWS suggests the
+associated low-level jet has reached 50kts within 4000 ft of the
+surface, but this strongly veered flow is resulting in negligible
+moist advection. The exception is through portions of Central and
+East Texas where Monday`s dryline intrusion failed to scour the
+boundary layer moisture. A lead impulse will swing through the
+region this morning, which may result in some rain drops from a
+gradually descending mid deck, but the majority of this
+precipitation should evaporate long before reaching the ground
+(despite what radar echoes might suggest to the untrained eye).
+Even where the low-level moisture may appear more favorable, the
+rain drops will still have a considerable depth of dry air to
+transit. But since such lift can occasionally produce
+precipitation of adequate intensity to overcome the dry descent,
+we`ll maintain a mention of sprinkles in many areas through mid-
+morning.
+
+Although the main upper low will track through the Central Plains
+well to our north, the right entrance region of its downstream
+150-kt jet streak will swipe North Texas through the afternoon
+hours. This will enhance the 700-mb flow, the marked westerly
+component of which will encourage a renewed dryline surge today.
+Despite the tightening moisture discontinuity, this forcing will
+be separated from the forcing aloft, and our tepid daytime PoPs
+are primarily focused on less organized convection that may
+materialize deeper into the warm sector. However, the dryline will
+pose some hazards to our northwestern zones, which will see a
+sharp uptick in wind speeds with gusts approaching 40 mph. In
+addition to the previously issued wind advisory that addresses
+this, there will also be elevated fire weather concerns in the
+post-dryline air as these winds combine with relative humidity
+values below 25 percent. Cured, dormant vegetation will be
+susceptible to fire initiation, and the winds will promote the
+spread of any grass fires that occur.
+
+A Pacific cold front will eventually overwhelm the dryline
+tonight, surging through Central and East Texas during the early
+morning hours. Although a few showers or storms may accompany the
+boundary as it penetrates the richer moisture, these should be
+short-lived, quickly racing northeast out of the CWA. Cold air
+will then pour into the region, with temperatures falling into the
+30s in our northern and western zones by daybreak Wednesday
+morning. But with the parent cyclone lifting into the Great Lakes
+states, the momentum behind the frontal boundary will gradually
+subside, mitigating the intensity of the wind chill.
+
+25
+
+&&
+
+.LONG TERM... /Issued 433 AM CST Tue Nov 26 2019/
+/Wednesday Through the Holiday Weekend/
+
+As our first system lifts quickly northeast away from the area and
+toward the Great Lakes Wednesday morning, shortwave ridging will
+briefly set up for a dry start to the day Wednesday and even some
+partial sunshine. A surface cold front will be exiting off the
+Texas Coast with a north wind 10 to 15 mph and highs only rising
+into the 50s most areas. By afternoon and evening, mid to high
+clouds will thicken as a strong mid level impulse lifts northeast
+from Mexico toward the area. Isentropic ascent will begin increasing
+over the top of the frontal inversion in place across the area for
+increasing chances for a light rain across northern and western
+parts of the area late in the day and into Wednesday evening.
+The entire area becomes encompassed by occasional shower activity
+by the Thanksgiving morning with steep enough lapse rates south of
+I-20 for an occasional clap of thunder. With an environmental
+pocket of dry air to initially overcome below 750mb, rainfall will
+be light initially. The damp and cool conditions will continue
+throughout Thanksgiving Day, so if you`re traveling to see family
+or friends, driving conditions will be on the sloppy side with
+high temperatures ranging from the 40s northwest to the lower 60s
+across eastern Central Texas.
+
+The mid level flow begins amplifying readily Thanksgiving night,
+as the next vigorous mid level system organizing out west drops
+down the Oregon and California Coastlines. This will result in
+shortwave ridging aloft by Thanksgiving evening briefly across
+those areas east of I-35, which will lessen rain chances. The
+reprieve doesn`t last long, however, as yet another mid level
+impulse arrives from Mexico overnight and draws the old frontal
+boundary rapidly northward across the area during the overnight
+and early morning hours on Friday. Forcing and ascent related to
+these features will result in on and off showers with a few
+embedded and mainly elevated thunderstorms through the morning
+hours; as initial surface temperatures will remain on the cool
+side. By afternoon Friday, the entire area will be within a broad
+warm sector in advance of our approaching mid level low
+approaching from the west. Morning convection will likely corrupt
+the environment with extensive cloud cover and shower activity.
+Despite the clouds and showers, a warm up into the 70s will
+ensue by Friday afternoon, but not to the extent of model blends
+are advertising extensive cloud cover should limit diurnal heating
+to an extent.
+
+Surface dew points will be well into the 60s when even a few
+readings near 70 degrees across Central Texas late on Friday; an
+indicator of the moisture-rich airmass that will be in place.
+With insolation lacking for extensive heating and destabilization,
+an axis of modest instability of 1000-1500 J/KG will develop in
+advance of a surface trough approaching from the west late Friday
+afternoon and continuing into the evening. Lapse rates aloft will
+be steepening as large-scale ascent increases with the arrival of
+the deep deep longwave trough to our west. Deep layer shear and
+0-1km shear will be impressive, so kinematics are not in question
+for at least a threat for a few strong to severe storms during
+this period. As for severe weather modes, there will be a
+localized threat for damaging winds and marginally severe hail,
+along with a localized heavy rainfall threat with a moisture-rich
+airmass in place. This far out, it`s very difficult to know how
+the thermodynamic environment materializes with all the convective
+interruption expected during the morning hours friday. If morning
+activity isn`t as widespread, then we could see a more enhanced
+severe weather window later Friday afternoon and Friday night. We
+shall know more as this system becomes better samples by the
+upper-air network. In addition, localized rain amounts along and
+north of I-20 and east of US 281 to between 1 to 3 inches are
+expected from Thanksgiving through Saturday morning -- with higher
+isolated amounts possible. I would expect run off and minor flooding
+will be possible as we move into the early part of the holiday
+weekend. I do not believe there will be a flash flood threat,
+though I couldn`t rule out an isolated instance by later Friday
+into Saturday morning.
+
+A cold front will will overtake the pre-frontal trough Friday
+night, with a broken line of storms moving east and southeast with
+the cold front as it moves areas east of I-35 through early Saturday
+morning. By Saturday afternoon, the storm threat will have ended
+as our unseasonably moisture airmass is replaced by a much drier
+and mP/cP airmass. Despite wet ground, downsloping from breezy
+west winds and plentiful sunshine Saturday afternoon will allow
+high temperatures to warm readily into the 70s most areas. The
+warm up doesn`t last long, however, as a colder airmass entrains
+in for the end of the holiday weekend. The resultant cold
+advection and dry air arriving into the region will help cool lows
+down into the 30s and 40s Sunday morning, with highs only
+rebounding into the 50s despite plentiful sunshine expected
+throughout the day. Next Monday morning will be our coldest as
+surface high pressure moves in with winds becoming light under
+clear skies. Lows should fall into the upper 20s and 30 areawide.
+Otherwise, highs will recover back into the 50s with a warming
+trend expected as we move through next week.
+
+05/
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    80  43  54  44  51 /  10   0  20  70  90
+Waco                80  46  56  46  57 /  10   0  10  40  80
+Paris               74  41  53  43  50 /  20  20  10  50  90
+Denton              80  40  53  42  50 /  10   0  20  70  90
+McKinney            77  41  53  43  51 /  10   0  20  60  90
+Dallas              79  43  55  46  53 /  10   0  20  60  90
+Terrell             77  43  56  45  55 /  20   5  20  50  90
+Corsicana           77  45  56  48  58 /  20  10  10  40  80
+Temple              80  48  56  47  60 /  10   5   5  40  80
+Mineral Wells       80  38  51  40  50 /   5   0  30  70  90
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+Wind Advisory from noon today to 6 PM CST this evening for
+TXZ091-100-101-115.
+
+&&
+
+$$
+
+25/05

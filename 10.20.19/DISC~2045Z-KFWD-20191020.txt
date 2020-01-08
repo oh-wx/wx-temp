@@ -1,0 +1,191 @@
+109
+FXUS64 KFWD 202045
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+345 PM CDT Sun Oct 20 2019
+
+.SHORT TERM... /Issued 222 PM CDT Sun Oct 20 2019/
+
+/This afternoon through Monday/
+
+Forecast trends are in good shape as we expect the main show to
+be later this evening and tonight. There is still a slight chance
+of convection across the far southeast counties through this
+afternoon. Latest satellite image shows the upper level low over
+Wyoming and Colorado and the associated cold front extending from
+Kansas to southeast Colorado and northern New Mexico. They will
+continue east/southeast and move through North and Central TX
+later this evening and tonight. Confidence is high that a line of
+storms will develop to our northwest by mid-evening, likely
+reaching the DFW Metroplex around or just after midnight and
+moving into Central TX a few hours later.
+
+There is still some uncertainty about the development and the
+severity of the storms ahead of the front late this afternoon and
+evening. It appears that some of the important ingredients needed
+for storms to develop will not be there yet. We will continue to
+watch the trends in moisture, instability and lift and will make
+necessary adjustment to the PoPs. For now, we will mention a
+chance of storms north and west of the DFW Metroplex and across
+the south and east to account for this possibility.
+
+In terms of the severe weather risk for North Texas, we still
+expect a few strong to severe storms across the area, especially
+north of the I-20 corridor. The main threats with the line of
+storms will be damaging winds and large hail. If any convection
+develops ahead of it or remains cellular, it will increase the
+tornado threat. In general, the tornado threat remains low at this
+time. We like to remind everyone to stay weather aware tonight
+and have a plan if any warning is issued for their location.
+
+After the cold front clears out tomorrow morning, northwest winds
+will continue through the day tomorrow. The good news is that high
+temperatures on Monday will only reach the 70s area wide under
+clear skies.
+
+Sanchez
+
+&&
+
+.AVIATION... /Issued 222 PM CDT Sun Oct 20 2019/
+
+/18z TAF Cycle/
+
+Concerns...Widespread showers and thunderstorms tonight as a cold
+front moves across the area. Occasional low ceilings due to
+heavier precipitation will be possible. South winds shifting to
+the north early Monday morning.
+
+For the DFW Metroplex TAF sites, VFR conditions and south winds
+continue this afternoon. We will see an increase in CU development
+in the next couple of hours with returning moisture. As
+anticipated, a cold front will sweep through the area tonight.
+Most of the high-resolution guidance agree that a line of storms
+will likely develop across the northwest after sunset and move
+east/southeast. The arrival time of the storms into the DFW
+Metroplex TAF sites will be around midnight. Ceilings and
+visibilities are expected to remain VFR, but occasional and brief
+MVFR/IFR cigs will be possible with the heavy precipitation.
+Expect FROPA between 08-09 UTC. Skies will clear just around
+sunrise Monday morning, with northwest winds around 10-15 kts
+through the rest of the forecast period.
+
+For ACT, the main difference will be the timing of the
+thunderstorms and the wind shift. We expect that the line of
+storms will impact Waco 07-09 UTC, followed by the wind shift
+around 10-11 UTC. Skies will clear during the early morning hours.
+
+Sanchez
+
+&&
+
+.LONG TERM...
+
+/Tuesday through Next Weekend/
+
+Cool conditions will grip much of North and Central Texas to
+start the day on Tuesday. With clear skies, low dewpoints and
+light winds...ideal radiational cooling is anticipated. NAM MOS
+and the previous forecast both appear to encompass the cooler side
+of the guidance. With that in mind, I`ve hedged towards these
+cooler solutions which advertise Tuesday morning lows in the 40s
+with a few of the sheltered regions in the upper 30s. Some patchy
+frost will be possible for locales that dip down into the upper 30s.
+
+Mid-level high pressure will remain in control across our region
+during the day on Tuesday and into Wednesday. This will equate to
+tranquil weather conditions with high temperatures slowly
+moderating both days to above climatological norms. Daytime high
+temperatures will climb into the upper 70s to mid 80s by Wednesday
+as south to southwesterly breezes develop ahead of the next upper
+trough. The warmest conditions are expected near and west of the
+US HWY 281 corridor. With the increasing surface pressure
+gradient, low level winds should climb into the 20 to 25 MPH
+range. Given the sufficient boundary layer mixing, wind gusts to
+near 30 MPH are not out of the realm of possibility on Wednesday
+afternoon. Minimum RH values are expected to crater down into the
+mid 20s west of I-35. While wetting rains are forecast Sunday
+night (tonight) into Monday, 1 and 10 hour fuels---mainly smaller
+vegetation types such as grasses and small timber---dry quickly
+under full solar insolation. Given that the drying of fuels is
+increasingly likely, it`s probable that an elevated fire weather
+threat will materialize on Wednesday.
+
+The next weather pattern shift is anticipated on Thursday when an
+upper low will detach from the main westerlies and dive south
+toward the Lone Star State. If you`ve been following along over
+the past several days, the general model theme persists through
+the 12 UTC cycle. The 12 UTC GFS and most of its ensemble members
+along with the Canadian remain quick with FROPA on Thursday across
+most of North and Central Texas (with FROPA through Central Texas
+by 21 UTC Thursday). The 12 ECMWF still remains the slow outlier
+as it delays the ejection of the upper trough and front with the
+FROPA not through the entire area until the pre-dawn hours on
+Friday morning.
+
+Climatologically speaking, a faster FROPA would be favored, but
+given the uncertainty about the depth/speed of the upstream colder
+airmass, I`m reluctant to blindly follow the GFS/Canadian
+solutions based on climatology. Moreover, model guidance tends to
+struggle with digging upper level troughs and in many instances
+their initial solutions prove to be too swift with their
+progressions. This would give credence to the slower ECMWF
+solution. What appears to be the most reasonable forecast is for
+areas across the northern Big Country to experience FROPA prior to
+peak heating on Thursday. I`ll advertise temperatures in mid to
+upper 60s here. While the warm sector airmass will likely be
+enshrouded with cloud cover, high temperatures may still climb
+into the mid to possibly upper 70s courtesy of strong WAA. If the
+Canadian/GFS are closer to reality, highs may need to be lowered
+down into the 60s.
+
+Showers and thunderstorms may blossom along and behind the front
+as it passes southward on Thursday. While deep layer shear will
+likely support organized modes, the magnitude of instability is
+uncertain. Should the GFS/Canadian models verify, it`s likely that
+the window for any strong to severe storms will be limited owing
+to meager moisture advection. The slower ECMWF, however, would
+allow ample time for a better fetch of moisture northward and thus
+greater instability over more of the area. We will continue to
+refine this portion of the forecast over the next several days.
+
+The forecast difficulty increases significantly as model guidance
+remains largely divergent regarding their solutions for Friday
+and into next weekend. There is perhaps greater confidence in the
+slower solutions given that the Canadian has trended toward the
+slower ECMWF. Strengthening 700-850mb WAA atop the cooler surface
+air---as implied by the Canadian and ECMWF---should in theory
+promote a widespread post frontal precipitation shield across the
+area. While the GFS has shown some run-to-run consistency, it
+remains the fast outlier and the latest forecast leans on a blend
+of the slower guidance. As such, I`ve nudged PoPs slightly above
+the GFS-heavy national blended guidance and kept temperatures
+below normal as we head into the last weekend of October.
+
+Bain
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    58  75  47  76  51 / 100   0   0   0   0
+Waco                60  76  43  78  50 /  90  20   0   0   0
+Paris               59  70  43  72  46 / 100  10   0   0   0
+Denton              53  75  40  75  50 /  80   0   0   0   0
+McKinney            56  74  42  75  47 / 100   0   0   0   0
+Dallas              60  75  48  76  53 / 100   5   0   0   0
+Terrell             61  74  44  75  46 /  90  10   0   0   0
+Corsicana           63  73  45  77  49 / 100  20   0   0   0
+Temple              62  76  42  78  51 / 100  20   0   0   0
+Mineral Wells       53  74  40  75  49 /  80   0   0   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+17/24/25

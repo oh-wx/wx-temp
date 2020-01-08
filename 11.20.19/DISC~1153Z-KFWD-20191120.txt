@@ -1,0 +1,154 @@
+993
+FXUS64 KFWD 201153
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+553 AM CST Wed Nov 20 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+Low level clouds have invaded all of the North and Central Texas
+TAF locations. With MVFR across the Dallas/Fort Worth Metroplex
+and IFR at Waco, these conditions are expected to persist through
+the early-afternoon. Daytime mixing will lead to VFR by mid-
+afternoon and persist through around midnight. The low- level jet
+will be in full force for much of the day with winds in excess of
+40 kts at around 3000 feet AGL. With daytime heating, downward
+momentum transfer due to atmospheric mixing will lead to a breezy
+afternoon with sustained winds of around 20 kts and gusts up to 30
+kts. These windy conditions are likely to subside after sunset as
+the near-surface atmosphere decouples from the stronger winds
+aloft.
+
+Another slug of low level moisture will stream northward in
+conjunction with the strong low level jet. MVFR looks likely once
+again after midnight and into early Thursday morning.
+
+Regarding the potential for rain, there are still some
+uncertainties as to just how much rain coverage will occur this
+afternoon. Most of the high resolution weather models keep the
+bulk of the precipitation to the northwest, across the Bowie
+cornerpost. There may still be some isolated to scattered rain
+showers across the TAF sites, but given location and coverage
+uncertainty, will keep the afternoon mention of precipitation as
+VCSH.
+
+Hernandez
+
+&&
+
+
+.SHORT TERM... /Issued 320 AM CST Wed Nov 20 2019/
+/Today and Tonight/
+
+The main story today and tonight will be the increasing winds
+throughout the day, followed by increasing rain chances this
+afternoon and continuing through the night.
+
+All these weather changes can be attributed to an upper level
+trough that is now emerging out of the Mexican high terrain, and
+is expected to move across the Four Corners region later this
+afternoon. Given its distance from North and Central Texas, most
+residents are expected to remain precipitation free. The
+exception will be in the northwestern counties, where lift is
+expected to be slightly higher due to the proximity to the passing
+shortwave.
+
+Increasing low-level cyclogenesis on the lee side of the Rockies
+will lead to an increasing response in the low level wind field
+throughout the day. Wind speeds at about 2000-3000 feet above
+ground level may increase to around 50 mph this afternoon. This
+will lead to some downward moment transfer as afternoon mixing
+takes place. Surface winds are expected to increase to around
+15-20 mph this afternoon, with occasional wind gusts at around
+25-30 mph.
+
+Thunderstorm activity will remain heavily concentrated mostly to
+the northwest of our area, but as the shortwave makes its closest
+approach, a cluster of thunderstorms could skirt the Red River
+counties. For the rest of the region, plenty of moisture will make
+its way northward, and with warm temperatures in place, a few
+warm advection showers and storms will be possible. The severe
+weather threat throughout the region will remain low today and
+tonight given the lack of significant instability. This shortwave
+will continue moving to the northeast, and temporarily reduce the
+probability of rain the region before rain chances return during
+the day Thursday.
+
+Hernandez
+
+&&
+
+.LONG TERM... /Issued 320 AM CST Wed Nov 20 2019/
+/Thursday through Tuesday/
+
+Thursday will be another cloudy and warm day across North and
+Central Texas as Gulf moisture is drawn northward into an
+approaching low pressure system. Highs Thursday will be in the
+70s region wide. Although some warm air advection showers and
+isolated thunderstorms will be possible through the day, the best
+chances will be across the northern zones where a cold front will
+stall. The cold front will continue to be a focus for showers and
+thunderstorms Thursday night as it sinks slowly southward through
+North Texas. Large scale forcing for ascent will increase as
+short wave energy ejects around the base of a strong upper low
+centered over the Four Corners region. Although mid level lapse
+rates will be marginal, moderate to strong shear may support a few
+zealous updrafts which could produce small to marginally severe
+hail and possible some gusty downburst winds.
+
+The Four Corners upper low will lift to the Central Plains on
+Friday, sending the cold front southward through the region.
+Showers and isolated thunderstorms will accompany the front,
+followed by increasing dry/cold air advection from the north. All
+precipitation should exit the region early Friday evening, with
+clearing skies and much colder temperatures (30s and lower 40s) by
+sunrise Saturday.
+
+Dry northwest flow aloft, abundant sun and decreasing cold air
+advection Saturday will allow temperatures to warm into the middle
+50s and lower 60s. Temperatures Saturday night will be cold with
+lows ranging from the mid 30s to the lower 40s. Sunday will be
+warmer (close to seasonal normals) with highs in the middle and
+upper 60s. Wind speeds will also be light Sunday as surface high
+pressure translates towards the Lower Mississippi Valley region.
+
+Low level warm/moist advection will increase Monday in response to
+a deepening lee trough across the Central High Plains. As a
+result, it will be warmer and more humid Monday with highs from
+the mid 60s to the lower 70s.
+
+Shower and thunderstorm chances will return to the region Monday
+night and Tuesday due to the approach and passage of an upper
+trough and associated cold front. There are significant model
+differences with regards to the strength of this system, so we
+will keep PoPs low for now.
+
+79
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    76  65  74  50  57 /  10  40  60  70  60
+Waco                78  65  75  56  65 /  10  30  50  60  70
+Paris               74  61  72  51  57 /   5  60  70  70  70
+Denton              76  64  73  47  55 /  20  50  70  70  60
+McKinney            75  65  74  49  57 /  10  40  70  70  60
+Dallas              77  66  75  51  59 /  10  40  60  70  70
+Terrell             76  65  75  52  62 /   5  40  50  70  70
+Corsicana           77  65  74  56  64 /   5  30  50  60  70
+Temple              79  65  76  57  66 /  10  20  40  40  70
+Mineral Wells       77  62  72  46  54 /  40  40  50  70  50
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+08

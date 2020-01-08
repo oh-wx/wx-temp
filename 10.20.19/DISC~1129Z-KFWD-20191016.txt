@@ -1,0 +1,143 @@
+000
+FXUS64 KFWD 161129
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+629 AM CDT Wed Oct 16 2019
+
+
+.AVIATION...
+VFR will prevail through the period with just some high clouds
+streaming across the area from the southwest. The clouds near 050
+around Waco will linger a few more hours before clearing as the
+frontal layer deepens and shunts all low level moisture to the
+south. Otherwise, north winds will be near 15-20kt this morning,
+but will subside to 10-15kt by this afternoon. The north winds
+will diminish to near 5kt tonight as high pressure settles into
+the region.
+
+TR.92
+
+&&
+
+
+.SHORT TERM... /Issued 359 AM CDT Wed Oct 16 2019/
+/Today and Tonight/
+The cold front has pushed through the area and northerly winds at
+10 to 20 mph with higher gusts are transporting cooler air into
+the region. Cold advection will continue through the morning hours
+but begin to wane this afternoon as winds diminish to near 10 mph
+and abundant sunshine across the Southern Plains modifies the
+temperature gradient. While most of North Texas will see sunny
+skies today, high clouds will persist across Central Texas due to
+an upper level low that will slowly move through West Texas today.
+Some of this mid and high cloud cover will spill back to the
+north later tonight as the low edges eastward, which will have
+implications on overnight low temperatures. For today most of the
+region will reach the upper 60s and low 70s, but tonight lows will
+range from the lower 40s in the north where winds should become
+nearly calm with clear skies, to the lower 50s across the southern
+zones where the impacts of mid and upper level cloud cover will
+keep temps a several degrees warmer.
+
+/FIRE WEATHER/
+Grass fires may be a concern this afternoon as relative humidity
+drops below 25% west of I-35 while winds continue at 10 mph. Some
+recent light rainfall has likely helped increase the moisture
+content of fine fuels, but the mild and dry conditions today will
+likely result in rapid drying during the day. Believe that weather
+and fuel conditions are still too marginal to warrant any fire
+weather products for today, but grass fires may become of more
+concern later this week and weekend across the western zones.
+
+TR.92
+
+&&
+
+.LONG TERM... /Issued 359 AM CDT Wed Oct 16 2019/
+/Thursday through Tuesday/
+
+As is characteristic for mid-October, the large-scale upper-
+level pattern over the Southern Plains will remain progressive
+from Thursday onward through the middle of next week. Following
+today`s cool-off, North and Central Texas will experience
+predominately dry conditions through Sunday with a steady day to
+day increase in temperatures. A strong front will push through the
+area Sunday night, bringing a chance of showers/storms to most of
+the forecast area, followed by clearing and a return to
+seasonable conditions through the early part of next week.
+
+The post-frontal surface ridge dominating North Texas today will
+shift east of the region Thursday, with nascent lee-side
+troughing facilitating a light southerly return flow by afternoon.
+A shortwave trough will move into the Central and Southern
+Rockies by Friday, deepening the surface trough over West
+Texas/New Mexico and invigorating the southerly winds over our
+area. Afternoon temperatures west of I-35 should rebound into the
+80s by Friday afternoon, while upper 70s linger in the east. The
+combination of minimum relative humidities in the 25-30% range and
+gusty south winds will lead to some elevated fire weather
+conditions across our far western counties Friday afternoon,
+though Red Flag criteria probably won`t be reached.
+
+The Rockies shortwave will eject across the Plains and Midwest on
+Saturday, and deamplify. This trough will help push a weak cold
+front southward into North Texas by midday Saturday. Lift and
+moisture are not impressive with this system, but did keep a small
+PoP in our far northeast Red River counties for the possibility
+of pre-dawn showers Saturday morning. The Euro is a bit more
+progressive than the GFS is in pushing this boundary south and
+eastward into Central and Eastern Texas by Saturday evening. Both
+solutions suggest the front will hang up along the southern
+eastern margins of our CWA, and wash out Saturday night as the
+upper level flow backs ahead of the next upstream system.
+
+Sunday sets up as the warmest day of the forecast period, as
+strong southerly winds and low level warm advection become
+well established regionwide. Under mostly sunny skies, readings
+will climb above 90 in most areas by afternoon, with upper 80s -
+and humid conditions - occurring in the east.
+
+By Sunday evening, a sharp upper level trough will depart the
+Rockies and begin to enter the Plains States. A Canadian cold
+front will penetrate our northwest counties after midnight, and
+clear our entire CWA by mid morning Monday. Both the GFS and Euro
+advertise a band of showers and thunderstorms developing
+along/ahead of this front, with the best potential existing closer
+to the Red River where large-scale forcing for ascent will be
+greatest. Went with chance PoPs across all of the area, highest
+in the northeast after midnight. CAPE and 0-6km shear values
+suggest a potential for isolated strong/severe storms late Sunday
+night/Monday morning, and this will need to be monitored as we
+move forward.
+
+Beautiful dry fall weather will dominate North and Central Texas
+Monday and Tuesday, with cool mornings and seasonable afternoon
+temperatures both days.
+
+Bradshaw
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    71  48  75  54  79 /   0   0   0   0   5
+Waco                71  48  74  52  81 /   0   0   0   0   5
+Paris               66  44  70  47  72 /   0   0   0   0   5
+Denton              71  44  76  52  79 /   0   0   0   0   5
+McKinney            70  44  74  51  77 /   0   0   0   0   5
+Dallas              71  49  75  54  79 /   0   0   0   0   5
+Terrell             70  45  74  52  79 /   0   0   0   0   5
+Corsicana           69  48  72  51  77 /   0   0   0   0   5
+Temple              71  49  73  53  80 /   0   0   0   0   5
+Mineral Wells       72  44  76  51  82 /   0   0   0   0   5
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+92

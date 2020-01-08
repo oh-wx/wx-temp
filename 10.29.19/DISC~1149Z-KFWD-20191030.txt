@@ -1,0 +1,170 @@
+000
+FXUS64 KFWD 301149 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+649 AM CDT Wed Oct 30 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+Concerns: IFR ceilings, widespread showers, and isolated
+thunderstorms continuing across North and Central Texas this
+morning. Storms and precip should end by the early afternoon, then
+expect improving flight conditions with VFR prevailing by the
+early evening. Gusty north winds are expected this afternoon and
+overnight.
+
+The area remains under the influence of a stalled out frontal
+boundary with widespread IFR ceilings, rain showers, and isolated
+thunderstorms affecting all of D10 and North/Central Texas. In
+regard to thunderstorms, a cluster of storms is currently moving
+NE out of D10 airspace, with a 1-2 hour lull in thunderstorm
+activity expected. Storms will move back into the airspace from
+the SE around 13-14Z and last for 2-4 hours affecting all terminals
+and arrival gates. The storms should remain northeast of KACT until
+around 14-16Z, with a few hours of storms in the vicinity of Waco
+expected this morning. The current TAF does not include prevailing
+thunder in any TAF, but it may be warranted before the 18Z TAF
+package is created.
+
+A strong cold front will move through North and Central Texas this
+afternoon, around 18-20Z, bringing in gusty winds out of the
+north. The front will also bring an end to the precipitation and
+lift the ceilings to MVFR initially based around 1200-2000 ft. A
+steadily increasing cloud base is expected to prevail for several
+hours after the winds increase in speed...eventually becoming VFR
+by the early evening hours. Gusty winds will continue through the
+night with clear skies prevailing by around midnight.
+
+Bonnette
+
+&&
+
+.SHORT TERM... /Issued 339 AM CDT Wed Oct 30 2019/
+/Today and Tonight/
+
+The leading edge of a cold airmass remains south of the forecast
+area this morning with an overrunning pattern persisting. Modest
+isentropic ascent overtop of the cold pool has led to the
+continuation of widespread rain showers and isolated thunderstorms
+across the area. This will be the primary lifting mechanism for
+precip through the morning, however, a stronger cold front will
+move into the area this afternoon and then become the primary
+forcing mechanism for precipitation this afternoon and evening.
+
+A deep upper trough will start to move into the Central Plains
+this afternoon which will induce cyclogenesis just north of our
+area. A rather strong upper level jet and recent warm/moist
+advection in the low levels (just over the surface) will promote
+strong frontogenesis associated with the aformentioned low this
+morning. These processes will help drive a strong cold front
+south into North Texas early this afternoon and Central Texas this
+evening.
+
+Widespread showers with isolated embedded thunderstorms should
+continue at and ahead of the cold front through the afternoon,
+with the highest rainfall amounts expected east of I-35 and south
+of I-20. Strong subsidence behind the front will finally bring and
+end to the precip beginning in the northeastern zones by around
+noon, the Metroplex by the early afternoon, and Central Texas this
+evening. The clouds will also start clearing out of the area from
+west to east tonight. Very strong cold air advection and a
+tightening pressure gradient will strengthen the winds this
+afternoon and evening with sustained northerly winds between 20-30
+mph and gusts upwards of 40 mph possible. The cold air associated
+with the front will keep the cold temperatures in place, in
+particular overnight tonight when the first widespread freeze of
+the season is expected. As such, we have upgraded the Freeze Watch
+to a Freeze Warning for much of the area west of I-35 and north
+of I-20 tonight into Thursday morning.
+
+Bonnette
+
+&&
+
+.LONG TERM... /Issued 339 AM CDT Wed Oct 30 2019/
+/Thursday through Next Week/
+
+Cold mornings are anticipated on Thursday and Friday with a slight
+increase in both daytime highs and overnight lows thereafter. Dry
+conditions are expected for most of the outlook period, with the
+excepting being Tuesday of next week.
+
+We will end the month of October on a cold note! Thursday morning
+will be frigid for most areas with a widespread freeze for North
+and parts of Central Texas. The northerly winds should be on the
+decline, but wind chills may still fall into the upper teens
+across North Texas to twenties elsewhere on Thursday morning.
+Despite full solar insolation during the day on Thursday, strong
+cold air advection will likely keep temperatures 20 to 25 degrees
+below normal values. Highs in the upper 40s to low 50s are
+forecast. Thursday night appears rain/storm-free for all of North
+and Central Texas with clear skies and light winds as surface
+high pressure builds across the region. Evening temperatures will
+fall into the 30s and 40s, so bundle up and dress warmly if
+headed outdoors for evening festivities. Just prior to sunrise,
+the excellent radiational cooling will allow most if not all
+locations to fall below 32 degrees across the FA, with even some
+locales across the Big Country falling into the mid 20s. I`ve
+gone ahead and issued a Freeze Watch (in effect for Friday
+morning) for locations to the east and southeast of the current
+Freeze Warning (that is in effect for Thursday morning).
+
+With return flow establishing itself on Friday ahead of the next
+cold front, we should see temperatures increase by 10 to 15
+degrees compared to Thursday across the area. While highs in the
+upper 50s to mid 60s are forecast, these values are still 10 to 15
+degrees below normal. It is possible that temperatures may need
+to be increased some, depending on the degree of veering ahead of
+the next frontal boundary slated to move southward through the
+area late Friday into early Saturday. Despite FROPA, Friday into
+Saturday appears rain/storm free as moisture advection within the
+southerly flow regime will be practically non-existent thanks to
+previous frontal intrusions into the Gulf of Mexico.
+
+Saturday night into Sunday will be chilly, though post-frontal
+winds will be sufficient to keep temperatures a few degrees
+greater than the previous night. We will warm nicely late Sunday
+and into next week as stronger southerly flow develops in response
+to zonal flow across the Central Plains. High temperatures through
+early next week will be within a few degrees of climatological
+norms. A frontal boundary will head southward on Tuesday as a
+shortwave trough ripples through the zonal flow to the north of
+the Lone Star State. Low level moisture return ahead of Tuesday`s
+front may be sufficient for rain and a few storms. With this in
+mind, I`ve inserted low PoPs, mainly across Central and East Texas
+on Tuesday afternoon.
+
+Bain
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    46  32  51  30  61 /  90  20   5   0   0
+Waco                47  33  51  27  61 /  90  40   5   0   0
+Paris               49  30  46  28  55 /  90  30   5   0   0
+Denton              45  30  50  26  60 /  90  10   5   0   0
+McKinney            46  31  50  27  58 /  90  20   5   0   0
+Dallas              46  33  51  31  61 /  90  20   5   0   0
+Terrell             49  33  51  27  59 /  90  30   5   0   0
+Corsicana           49  33  49  32  59 /  90  50  10   0   0
+Temple              47  33  51  28  61 /  90  50   5   0   0
+Mineral Wells       44  27  49  25  63 /  80   5   5   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+Freeze Warning from 1 AM to 10 AM CDT Thursday for TXZ091>095-
+100>106-115>120-129>134-141>145-156-157.
+
+Freeze Watch from late Thursday night through Friday morning for
+TXZ107-121>123-135-146>148-158>162-174-175.
+
+&&
+
+$$
+
+06/24

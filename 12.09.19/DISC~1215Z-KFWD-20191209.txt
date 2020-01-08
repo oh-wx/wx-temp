@@ -1,0 +1,191 @@
+659
+FXUS64 KFWD 091215
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+615 AM CST Mon Dec 9 2019
+
+.AVIATION...
+/12Z TAFS/
+
+Main concerns through the period will be a strong cold front which
+will bring areas of rain and lowering cigs to the region tonight
+into early Tuesday morning and a low chance for some wintry
+precipitation.
+
+Southerly winds prevail this morning under a thick canopy of high
+clouds. There are some lower clouds across east and southeast
+Texas, but these should primarily remain east of the major
+airports.  An area of low pressure is located over northern
+Oklahoma and will move east during the day today. This will drag a
+strong cold front through the region and result in winds becoming
+more westerly later this morning then northerly by afternoon.
+Cigs will primarily be VFR through the day, although will lower
+through the afternoon.
+
+By tonight, as a strong upper disturbance approaches, areas of
+rain will develop. This should initially be west of the I-35
+corridor, but will overspread the region late tonight. Cigs will
+likely lower to MVFR during the late overnight hours with areas
+of rain overspreading the airports after 3 am. A further lowering
+of cigs is expected through sunrise Tuesday. There is a chance for
+some snow to mix in with rain in the 4-8 am timeframe, mainly
+northwest of the Metroplex. At this time, we`ve kept any mention
+of snow out of the DFW TAF, but a brief mix is certainly in the
+realm of possibility. We`ll include -RASN in at AFW from 11Z
+through the end of the current TAF period at 12Z, with the
+expectation that any wintry mix should end by 14Z. If snow does
+indeed mix in with rain around sunrise, then IFR cigs/vis would be
+likely. A rapid north to south drying is expected through late
+morning on Tuesday and cigs will quickly improve to VFR by midday.
+
+At Waco, similar trends are expected, but the northerly wind
+shift will occur around 22Z this afternoon. Areas of rain will
+overspread the airport after 5 am. No wintry precipitation is
+expected at Waco.
+
+Dunn
+
+&&
+
+.DISCUSSION... /Issued 313 AM CST Mon Dec 9 2019/
+
+Key Messages:
+(1) A strong cold front will pass through later today, bringing
+much colder temperatures, and increasing rain chances. High
+temperatures will occur this morning, with much cooler
+temperatures by evening commute. Plan accordingly!
+
+(2) A transition to a rain/snow mix is likely to occur early
+Tuesday morning for parts of North Texas, including the
+Dallas/Fort Worth Metroplex. We are not anticipating any wintry
+precipitation in Killeen, Waco, or Temple at this time.
+
+(3) Little to no accumulation is expected for most locations;
+however, localized areas could see accumulations of around one
+inch on elevated surfaces and in grassy areas.
+
+(4) While impacts for most locations will be minimal to none, some
+minor travel issues could arise where heavier snow does occur.
+
+GOES-16 water vapor channel imagery and 500 mb objective analysis
+show a deep upper-level trough over much of the western U.S. The
+trough axis as of this writing lies along a line from Bismarck, ND
+to Denver, CO to San Diego, CA. The southern end of the upper-
+level trough appears to be lagging somewhat behind the longwave
+trough, and is partially detached from the upper-level flow.
+Strong ascent is beginning along the east side of this trough,
+with Pacific moisture streaming into the southern tier states. At
+the surface, a broad area of low pressure is noted over the
+Central Plains, with a cold front extending along a line from
+Oklahoma City, OK to Trinidad, CO.
+
+Strong height falls ahead of the approaching upper-level trough
+will drive a cold front across North and Central Texas on Monday
+afternoon. The cold front should enter our northwestern counties
+later this morning, reach the Dallas/Fort Worth Metroplex by
+around noon, Killeen/Temple/Waco mid-afternoon, and exit our
+southeastern counties by evening. Strong cold air advection will
+result in rapidly falling temperatures. While temperatures are in
+the low to mid 60s this morning, high temperatures will likely
+occur around noon. By sundown, temperatures will be in the 50s
+across much of North Texas, with temperatures dropping into the
+40s along the Red River. Gusty northerly winds of 15-20 mph will
+result in wind chills in the 40s. This is a long way of saying
+don`t let this morning`s warm temperatures fool you! It will be
+much chillier by evening commute, so make sure to take an extra
+jacket with you if heading out.
+
+Going into the overnight hours, the upper-level trough will
+continue its trek towards the Lone Star State, reaching the Big
+Bend region by Tuesday morning. The combination of a 120+ KT jet
+streak overspreading the region, strong differential cyclonic
+vorticity advection, and deep frontogenesis sloping northwest into
+the cold air will support powerful ascent across the region. A
+steady stream of Pacific moisture in place combined with this
+ascent will allow for widespread precipitation to develop late
+Monday evening, initially as cold rain.
+
+Things get interesting as we head into Tuesday morning. Forecast
+soundings from the GFS and HRRR show very strong ascent within the
+dendritic growth zone (i.e. the -10C to -20C layer), along with a
+very saturated air mass. This will easily support ice crystal
+formation within the cloud layer. Beneath this layer, the column
+should be sufficiently humid to allow precipitation to continue
+reaching the ground, despite the fact a little dry air could start
+working into North Texas. The only question that exists is
+whether temperatures will be sufficiently cool to allow
+precipitation to remain frozen all the way to the ground. While
+the synoptic freezing line will likely still be in Oklahoma,
+dynamic cooling from the strong vertical ascent, as well as
+evaporative cooling processes should be enough to allow for a
+rain/snow mix across parts of North Texas. The transition looks
+like it would mostly likely occur from west to east, roughly along
+a line from Comanche to Stephenville to Dallas/Fort Worth.
+
+Surface temperatures should remain above freezing, which would
+prevent significant accumulations from occurring, but there are
+two caveats worth mentioning. The first is that when temperatures
+are just above freezing, snowflakes can stick together, forming
+large "clumps" of snow. Secondly, if snow were to come down rather
+quickly, it could begin to accumulate on elevated surfaces (i.e.
+bridges, overpasses, and rooftops) and grassy areas. This will
+probably not be the case in most locations, but we will certainly
+have to be on alert for any enhanced snow bands that do develop,
+which unfortunately is very difficult to forecast at this range.
+Snowfall forecast products from the GFS and HRRR using the Kuchera
+snow ratio method both suggest the most likely corridor for
+heavier snow would be from Dallas/Fort Worth to points southwest,
+but notably, the GFS snow depth product (which takes into ground
+temperature, melting processes, etc.) shows very little
+accumulation. For this reason, we do not plan any winter weather
+headlines (i.e. advisories/watches) at this time. Precipitation
+should come to an end by Tuesday afternoon across the CWA, with a
+cold and dry night to follow.
+
+So what does this all mean for you the citizen? Most likely, we`ll
+just see a few snowflakes mixing in with rain on Tuesday morning.
+It will be mildly exciting, but most likely not enough to cause
+any significant disruptions. Having said that, the potential does
+exist for some locally enhanced snowfall, with maximum totals in
+a few spots potentially approaching or exceeding an inch. This
+means you will want to keep an eye on the forecast. Check back
+later this evening, and get up early on Tuesday to see what`s
+going on. Winter weather is notoriously difficult to forecast,
+even with the major technological advances in the last couple of
+decades. It`s even harder in these "marginal" setups that often
+occur in North Texas. The best course of action is to be prepared
+for the "reasonable high end scenario", which would include the
+possibility of some light snow accumulations that could result in
+some minor impacts to travel.
+
+For the rest of your week, look for continued near to below normal
+temperatures. Beyond Tuesday, the weather looks to be dry, with
+the next chance for rain coming early next week.
+
+Godwin
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    71  35  45  30  53 /  10  90  80   5   0
+Waco                76  36  44  28  54 /   0  80 100   5   5
+Paris               68  35  43  27  51 /  10  60  70   0   0
+Denton              67  34  46  27  52 /  10  70  60   0   0
+McKinney            69  34  44  27  52 /  10  80  70   5   0
+Dallas              71  35  45  30  53 /  10  90  80   5   0
+Terrell             71  35  44  27  53 /  10  90  90   5   0
+Corsicana           75  38  43  30  52 /   5  80 100   5   5
+Temple              80  38  44  29  54 /   0  80 100   5   5
+Mineral Wells       68  32  44  25  52 /  10  70  60   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+91

@@ -1,0 +1,199 @@
+000
+FXUS64 KFWD 261159
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+659 AM CDT Thu Sep 26 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+Concerns: Temporary N-NE wind shift at the Metroplex terminals
+this morning.
+
+A cold pool dominated cluster of showers and thunderstorms across
+the Ark-La-Tex region continues to weaken and propagate southward
+this morning, mainly impacting the Bonham cornerpost. An outflow
+boundary associated with the convection has pushed out well ahead,
+oriented from northwest to southeast along a KDUC-KGYI-KSLR line.
+A N-NE wind shift has persisted at observation sites behind the
+boundary prior to returning to S-SE flow. Sites behind the
+boundary have reported wind speeds from 15-20 knots with gusts
+close to 25-30 knots. Opted to include a TEMPO group to account
+for a temporary shift to N-NE winds from 13-15Z at DFW, DAL, and
+AFW, and 14-16Z for FTW and GKY based on the current speed of the
+boundary.
+
+There is a low potential for thunderstorms to develop this
+afternoon, but this will highly depend on the location of the
+outflow boundary. Confidence remains too low to warrant a mention
+at this time, but overall trends will continue to be monitored.
+Otherwise, VFR will prevail through the forecast period with
+daytime cumulus clouds expected this afternoon.
+
+Garcia
+
+&&
+
+
+.SHORT TERM... /Issued 340 AM CDT Thu Sep 26 2019/
+/Through Friday/
+
+North and Central Texas remains under the influence of a mid-level
+ridge, resulting in tranquil conditions this morning. Across
+portions of eastern Oklahoma and western Arkansas, a cluster of
+strong thunderstorms and an outflow boundary continues to
+propagate southeastward. The latest HREF members and their
+previous model runs continue to indicate this activity may reach
+the northeastern zones by daybreak, with only a very low chance of
+some isolated showers reaching locales near the Metroplex. The
+highest PoPs (near 30%) will remain across the far eastern Red
+River counties through the morning hours.
+
+An overall weakening trend is anticipated with the cluster of
+thunderstorms through the morning and early afternoon hours as the
+cluster becomes displaced from the parent upper level trough and
+the surface front weakens. However, any remnant outflow boundaries
+will be features that bear watching during the afternoon hours
+across North Texas, mainly near and north of the I-20 corridor.
+While large scale forcing for ascent will not be in place,
+sufficient moisture content remains in place. Afternoon
+instability will increase (MLCAPE values upwards of 2000 J/kg) and
+locations will approach or exceed their convective temperature.
+As a result, it remains possible that some isolated showers/storms
+may develop. Given afternoon high temperatures will be in the mid
+to upper 90s across North Texas and model soundings reveal an
+inverted-V profile, a gusty wind threat cannot be ruled out. I
+maintained slight chance PoPs across the northeastern zones for
+this afternoon, but adjustments may be warranted based on the
+locations of any boundaries. If any showers or storms develop,
+they should diminish in the evening with the loss of daytime
+heating.
+
+Tonight and Friday will feature tranquil and mild conditions
+across the region. An increasing low-level jet may result in some
+morning cloud cover across Central Texas and parts of North Texas
+by daybreak Friday. Across the southwestern US, the upper level
+low will slowly begin to translate eastward through the end of the
+work week. This will result in strengthening southerly winds
+close to 10-15 mph.
+
+Otherwise, I did trend toward the warmer side of guidance given
+the previous days high and low temperatures were a few degrees
+above model blends. Temperatures through the end of the work week
+will remain 10-12 degrees above seasonal normals for late September.
+
+
+Garcia
+
+&&
+
+.LONG TERM... /Issued 340 AM CDT Thu Sep 26 2019/
+/Saturday through Wednesday/
+
+The last part of September and the first few days of October will
+be unseasonably hot across North and Central Texas with high and
+low temperatures running about 5 to 10 degrees above normal. There
+are rain/storm chances sprinkled in throughout the forecast, but
+the probability for measurable rain at any given location isn`t
+any higher than 50 percent through the weekend. There is still a
+chance that some areas may see some relief from the heat, but
+uncertainty in the extended part of the forecast remains high.
+
+For the upcoming weekend, model guidance continues to indicate
+that the closed and cut-off low across the Pacific Southwest will
+slowly emerge and eject out into the southern Great Plains. Model
+guidance does reveal that the PV anomaly associated with the
+upper low will be a tad stronger (a deeper 1.5 PVU surface). This
+equates to stronger mid/upper level frontogenesis which should
+yield a stronger jet aloft. Indeed, guidance now indicates that
+the jet will be closer to the 70-75 knot range and a little
+farther south than indicated in previous model iterations. This
+places North and Central Texas closer to the RRQ of the upper jet
+and thus large scale ascent. I`ll keep PoPs at or just below 50
+percent during the pre-dawn hours, mainly across western Texoma
+and the northern Big Country where jet entrance forcing is likely
+to be most pronounced. In addition, the stronger low level wind
+field should promote modest theta-e transport northward and
+facilitate an environment conducive for showers/storms.
+
+PoPs through the day on Saturday remain on the low side. There
+are two areas that will have slightly better rain/storm chances.
+1) The first is along the immediate Red River Valley where some
+lingering jet entrance forcing may continue. 2) The other location
+will be down across Central Texas where some streamer shower type
+activity may develop. There`s a decent chance that areas between
+these geographic regions mentioned above will remain largely void
+of any showers/storms as they`ll be removed from a focus for
+ascent. One other plausible scenario is that most locales remain
+rain/storm-free on Saturday due to the implied subsidence
+associated with mid-level height rises behind the departing trough.
+High temperatures on Saturday will likely remain in the mid 90s
+for most locations, except along the Red River, where cloud cover
+may be the most dense and rain/storms persist. The surface
+pressure gradient should remain tight to support 15 to 25 MPH
+breezes.
+
+Sunday still presents a forecast challenge. The mid-level ridge
+will make an attempt to slowly retrograde westward. While height
+rises are not as pronounced on Sunday and low level moisture may
+increase some, the lack of a discernible lifting mechanism lowers
+confidence in widespread rain/storms as advertised by blended
+guidance. With that in mind, I continue to undercut blended
+guidance`s likely to near categorical PoPs in favor of slight
+chances for rain/storms. The Big Country stands to have the best
+chance for rain/storms as this location will be the most removed
+from the mid-level ridge and remain in closer proximity to
+slightly richer dewpoints. Higher resolution model guidance should
+be able to assist with the PoP forecast the closer we get to
+Sunday (and may result in either the increase or removal of PoPs).
+While the increase in moisture may result in more clouds, highs
+on Sunday will still remain unseasonably warm with readings in the
+mid 90s.
+
+Through at least the middle of next week, rain chances appear
+very low and the warm conditions are likely to persist as the mid-
+level ridge across the southeast US continues to slowly migrate
+westward. The first few days of October will feel more like early
+September as highs in the low to mid 90s are still advertised. So
+will it cool down across the region next week? Well, the only
+glimmer of hope that we have will be Thursday and into Friday. The
+Canadian and to some degree the GFS (and many of their ensemble
+members) continue to plow a stout front through North and Central
+Texas during the late to end part of the work week. The ECMWF does
+show FROPA, but the associated CAA is not nearly as great as
+suggested by the Canadian and GFS. The overall trend would favor
+the ECMWF solution. Given the current spread among model
+guidance, however, I will show a slight cool down (temperatures
+in upper 80s and low 90s). Rain chances with this front don`t look
+great at this time, so I`ll advertise dry conditions. As noted in
+previous discussions, the forecast will be subject to change as
+subsequent model guidance arrives, so stay tuned.
+
+Bain
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    97  76  95  76  95 /  10   0   0  10  20
+Waco                97  74  97  76  97 /   5   0   0  10  20
+Paris               89  71  90  72  89 /  30   0   0  10  30
+Denton              96  75  95  75  94 /  20   0   5  10  20
+McKinney            95  74  94  75  94 /  20   0   0  10  20
+Dallas              97  76  95  77  95 /  10   0   0  10  20
+Terrell             95  73  95  75  95 /  20   0   0  10  20
+Corsicana           96  73  95  75  94 /   5   0   0  10  20
+Temple              97  73  96  75  96 /   0   0   5  10  20
+Mineral Wells       96  74  94  74  94 /  10   0   5  10  20
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+22/24

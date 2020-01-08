@@ -1,0 +1,171 @@
+974
+FXUS64 KFWD 091204 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+704 AM CDT Wed Oct 9 2019
+
+.AVIATION...
+/12Z TAFs/
+
+Nocturnal/morning stratus. Otherwise, VFR with gusty south flow.
+
+The main proliferation of early morning stratus has been across
+the Hill County as a nocturnal low-level jet beneath FL010 has
+scraped the Balcones Escarpment. But an ambitious ribbon has raced
+up the I-35 corridor, blanketing Waco and teasing the Metroplex.
+The 12Z RAOB from KFWD sampled a 30-knot low-level jet, which may
+briefly reinforce this layer until the sun scatters the deck. In
+the meantime, temporary ceilings FL010-015 will occur at our
+Metroplex terminals. IFR ceilings will still be possible across
+Central Texas past sunrise. Wind speeds will increase as some of
+the low-level jet`s momentum reaches the surface.
+
+Convective activity will remain northwest of the D10 TRACON today
+and tonight, but some showers/storms may continue to disrupt the
+northwest arrival corridor into the afternoon and evening hours.
+
+As the boundary layer moistens further, an earlier onset of
+stratus is expected tonight. These ceilings will be more
+persistent, lifting into the VFR corridor by midday Thursday.
+
+FROPA and associated convection Thursday night is still beyond the
+scope of the DFW TAF.
+
+25
+
+&&
+
+.DISCUSSION... /Issued 340 AM CDT Wed Oct 9 2019/
+The main focus of the forecast continues to be the significant
+cold front set to arrive Thursday evening, accompanied by chances
+for a few strong or severe storms.
+
+The current synoptic pattern is characterized by a lead shortwave
+currently swinging through the Texas panhandle in advance of a
+deep upper trough over the Pacific Northwest. Presently, the lead
+disturbance is contributing to scattered elevated convection to
+our north and west. This activity is largely expected to miss the
+forecast area, or at most clip or northwestern zones this morning.
+Some new development to our west is possible later this afternoon
+and evening as weak height falls continue, which may have a
+slightly higher chance of affecting areas north of a Graham to
+Paris line through the evening or into tonight. Meanwhile, the
+disturbance has also acted to increase southerly flow through the
+low levels, and the resultant warm advection will mean a warmer
+and more humid day as temperatures bounce back above normal while
+dewpoints climb into the 60s.
+
+As the lead wave exits eastward, the Pacific Northwest low will
+dig southeastward into the Plains heading into Thursday while
+deepening even further. This potent storm system will be
+accompanied by a significant cold front, which will make itself
+known across the entire central CONUS through the late week time
+period. In advance of this system, southerly flow will strengthen
+further into Thursday, ushering in greater moisture content and
+warmer air. Despite the resultant increase in cloud cover,
+temperatures should easily climb into the upper 80s and low 90s
+throughout Thursday afternoon while the cold front approaches from
+the northwest. Some warm advection showers can`t be ruled out,
+but am generally not expecting much precipitation throughout the
+day Thursday. Strong warm advection through the low-levels should
+maintain a healthy capping inversion over the open warm sector
+despite the efforts of diurnal heating.
+
+By late Thursday afternoon or early Thursday evening, the front
+should enter our northwestern zones, already accompanied by fairly
+widespread convective activity. With storm motion and deep-layer
+shear vectors both oriented roughly parallel to the boundary,
+convection should have a tendency to grow upscale quickly before
+becoming undercut by the much cooler post-frontal air. There still
+appears to be a low-end threat for strong or severe storms with
+this system, with the greatest risk generally along and north of
+Highway 380. This area should experience convection just after
+peak heating when moderate instability and strengthening deep-
+layer shear will coincide, and storms along the front may have a
+greater chance to remain surface based for a few hours there. A
+threat for strong winds will exist with any organized segments
+along the front. In addition, as storms become elevated above the
+sharp frontal zone, a hail risk could also exist, particularly if
+any more isolated rotating updrafts can survive there.
+
+The front will rapidly dive southward through the remainder of
+Thursday night, likely clearing our southeastern zones by
+daybreak. Since the bulk of the upper-level dynamic ascent will
+move eastward into the Midwest, ascent will largely be limited to
+lift immediately along and just behind the frontal surface. This
+should lead to a decrease in both coverage and intensity of
+convection the farther south the front progresses. Elevated
+showery activity will remain possible behind the front, however,
+gradually tapering off into the day on Friday. The fast motion of
+the front should limit rainfall totals as well as the flooding
+potential. However, it does appear that most areas in the CWA will
+see at least a small amount of rainfall with this system.
+
+Besides the associated convective chances, this front will
+deliver a significant cooldown. Temperatures will plummet 30-40
+degrees as it moves through while being accompanied by breezy
+north winds of 20-30 mph with some higher gusts. Some areas may
+need a Wind Advisory through the overnight period and into Friday,
+and this will be assessed further in subsequent forecasts.
+Lingering cloud cover and strong cold advection should hold
+temperatures fairly steady through Friday, with most areas
+lingering in the 50s and low 60s. Skies should continue clearing
+into Friday night while winds decrease, setting the stage for a
+crisp Saturday morning. It appears lows will bottom out in the
+upper 30s and low 40s although we`ll need to keep an eye on some
+of our typical cool spots which could dip a few degrees lower.
+Statistical guidance is actually showing temperatures as low as
+33(!) at Graham for Saturday morning. As drier air continues to
+filter in, a clear and slightly milder Saturday afternoon is in
+store with highs in the 60s and low 70s.
+
+The next forecast concern is the potential for elevated showers
+to develop Saturday night into Sunday. Wind fields should turn
+around to the south rather quickly due to an approaching shortwave
+embedded within fast zonal flow aloft. This will lead to a
+strengthening low-level jet and strong isentropic ascent across
+the Southern Plains. At a minimum, this should lead to an increase
+in mid-level cloudiness, and perhaps some precipitation as well.
+However, the very dry low levels may preclude any precipitation
+from reaching the surface. The ECMWF has consistently been
+producing QPF with this feature while the majority of other
+guidance suggests the column would be too dry. We`ll have to
+continue watching this over the next few days, with strong
+isentropic ascent being a great recipe for busting my current dry
+forecast.
+
+It appears fast zonal flow aloft will continue into next week,
+with perhaps a couple additional subtle disturbances rippling
+through. This setup warrants the inclusion of some low rain
+chances in the forecast Monday and Tuesday, along with a continued
+warming trend as a warm advection regime establishes itself.
+Another frontal intrusion could occur through the midweek time
+period, although this remains uncertain at this time.
+
+-Stalley
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    87  74  91  50  59 /   5   5  10  80  50
+Waco                89  74  94  54  61 /   0   0   5  60  60
+Paris               83  68  85  48  59 /   5  10  10  80  60
+Denton              87  73  90  47  58 /   5  10  10  80  40
+McKinney            87  72  89  48  58 /   5   5  10  80  50
+Dallas              87  74  91  51  59 /   5   5  10  80  50
+Terrell             87  72  92  51  58 /   5   0  10  70  60
+Corsicana           89  71  91  54  62 /   0   0   5  60  60
+Temple              88  73  94  55  63 /   0   0   5  60  60
+Mineral Wells       89  72  91  45  57 /  10   5  10  70  40
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+25/26

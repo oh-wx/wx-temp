@@ -1,0 +1,196 @@
+054
+FXUS64 KFWD 081139
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+539 AM CST Sun Dec 8 2019
+
+.AVIATION...
+/12Z TAFS/
+
+High clouds continue to stream in across the region this morning
+and similar to the last few days, this will continue through the
+day. Low level moisture is slowly creeping back into the region
+though and IFR cigs/vis are prevalent across east and southeast TX
+this morning. These low cigs/vis will slowly advance westward over
+the next few hours, but increasing and veering low level winds
+through the morning should keep the lowest cigs/vis to the east of
+the major airports. Southerly winds will increase to 15 to 25 kt
+later this morning and should continue through the nighttime
+hours.
+
+A strong cold front will move through North Texas on Monday. Winds
+will gradually veer around to the west by early Monday morning
+ahead of the front with VFR cigs lowering through the morning.
+Deteriorating conditions are expected to occur Monday afternoon
+and evening, just beyond the current TAF period.
+
+Dunn
+
+&&
+
+.SHORT TERM... /Issued 317 AM CST Sun Dec 8 2019/
+/Today and Tonight/
+
+Water vapor and satellite imagery this morning continues to show a
+steady stream of Pacific moisture moving through North Texas
+mainly in the form of high clouds. All of this is in advance of a
+deepening upper trough that will eventually move through the
+region bringing us increased rain chances and much colder weather.
+Details on this system are below. For today, the strengthening
+westerly flow across the Southern Rockies will continue to induce
+pressure falls across the TX/OK panhandles through this afternoon.
+This will result in strengthening southerly winds and a gradual
+veering of the low level flow as the surface low begins to move
+eastward this evening. Temperatures should respond upward in
+response to the southwest winds above the surface and we should
+see highs top out in the low to mid 70s this afternoon. Shallow
+moisture is trying to return to the area as evidenced on IR
+satellite imagery with an expansive low cloud deck to our east and
+widespread dense fog throughout the Coastal Bend. This moisture
+will try to work its way north and westward through the day, but
+veering winds should keep most of the low clouds to the east of
+our area.
+
+By tonight, the surface low over the Panhandle will begin to race
+eastward dragging a strong cold front through the Plains. Arctic
+air behind this front will spill southward, but will still be to
+our north by early Monday morning. Surface winds will become more
+westerly overnight and low temperatures will generally be in the
+mid to upper 50s.
+
+Dunn
+
+&&
+
+.LONG TERM... /Issued 317 AM CST Sun Dec 8 2019/
+/Monday onward/
+
+Key Messages:
+(1) A strong cold front on Monday will bring much cooler
+temperatures, and increasing rain chances late Monday and into
+Tuesday morning.
+
+(2) While the vast majority of our county warning area (CWA) will
+see only liquid rain, some light rain/snow mix will be possible
+west of a Decatur to Mineral Wells to Goldthwaite line on Tuesday
+morning. Wintry weather is not anticipated in either Dallas/Fort
+Worth or Killeen/Temple/Waco.
+
+(3) Significant uncertainty remains, especially with regards to
+any accumulation potential. Impacts are likely to be minimal, but
+anyone planning to travel west of DFW on Tuesday should monitor
+the latest forecast information.
+
+A potent shortwave trough is beginning to move onshore across the
+Pacific Northwest this morning. The axis of this trough lies along
+a line from Edmonton, AB to Spokane, WA to Eureka, CA. GOES-16
+water vapor channel imagery shows strong ascent east of this
+trough axis, with Pacific moisture beginning to overspread the
+Desert Southwest and Southern Rockies. This shortwave trough will
+drop southeast across the Southwest over the next 48 hours, and
+should be in the vicinity of the New Mexico/Texas state line by
+Tuesday morning. Strong height falls ahead of this approaching
+shortwave trough will drive a surface cold front through North and
+Central Texas during the day Monday. This cold front should enter
+our northwestern counties late Monday morning, reach the
+Dallas/Fort Worth Metropolitan Area by early afternoon,
+Waco/Killeen/Temple by late afternoon, and exit our southeastern
+counties by evening.
+
+Areas of rain will likely develop with the initial frontal
+passage, but more widespread rainfall should trail the cold front
+by several hours. QG diagnostic fields from both the GFS and ECMWF
+show the strongest forcing for ascent arriving after midnight
+Tuesday (i.e. Monday into Tuesday), and increasing into Tuesday
+morning. The combination of strong differential cyclonic vorticity
+advection, and strong frontogenesis sloping northwest into the
+cold air suggests that ascent will be very strong. For the first
+18-24 hours behind the frontal passage, there should also be
+plenty of moisture available. For this reason, the largest QPF
+and highest PoPs are shown from 12 a.m. Tuesday to 12 p.m.
+Tuesday. Likely to definite PoPs (i.e. >=55%) are indicated for
+the vast majority of the CWA, with widespread QPF totals of one-
+half to one inch likely for most locations.
+
+Now for the reason you`re really reading this: the winter weather
+potential. While the ascent looks strong for reasons discussed in
+the previous paragraph, and moisture should (initially) be
+abundant enough to support precipitation processes, in this case,
+the temperature/moisture timing is where the uncertainty lies. A
+more classic winter weather/snow event for North Texas typically
+involves an upper-level shortwave trough detaching from and
+lagging behind a longwave trough. Such a synoptic pattern allows
+deep cold air to infiltrate the Southern Plains, with strong lift
+and moisture arriving about 24 hours later. In Tuesday`s case,
+the shortwave trough looks like it will remain fairly well
+attached to the longwave trough, with the synoptic freezing line
+likely to still be in the Sooner State on Tuesday morning. Having
+said that, the effects of dynamic cooling from the powerful
+upper-level ascent, as well as thermodynamic processes from
+evaporative cooling should allow temperatures to cool to near or
+just below freezing in our western counties. It looks like areas
+generally west of a line from Decatur to Mineral Wells to
+Goldthwaite would be where this would be most likely to occur. To
+the north of this area, dry air may work its way in before
+temperatures can cool enough. To the south and east, temperatures
+look to be simply too warm. This region, which also has a bit of
+elevation working for it, is right in the "sweet spot". After
+collaboration with neighboring offices and WPC, have opted to
+include a mention of light rain/snow mix for Tuesday morning in
+these areas.
+
+In terms of accumulations/impacts, there remains substantial
+uncertainty due to uncertainties about how cold it will be Tuesday
+morning. Surface temperatures look to be right around freezing
+(give or take a couple of degrees), so ground temperatures should
+be warm enough to prevent much in the way of meaningful
+accumulations. Having said that, should temperatures be a few
+degrees cooler than forecast, or precipitation rates be heavier
+than expected, some accumulations would be possible. The grids
+explicitly mention about one-tenth to one-quarter inch of snow
+accumulation in the aforementioned areas, but right now, this
+should be viewed as a higher-end scenario. These accumulations
+would also likely be confined to elevated surfaces (i.e. bridges
+and overpasses) or grassy areas. Any disruptions should be very
+minimal, but folks that will be traveling west of the Metroplex on
+Tuesday should monitor the latest forecasts.
+
+Precipitation should come to an end across the entire CWA by late
+Tuesday evening. Temperatures will be rather chilly Tuesday night,
+with temperatures likely to fall below freezing for the entire
+CWA. Morning lows on Wednesday will range from mid 20s out around
+Eastland, to around 30 in the southeast and in urban areas.
+
+The next upper-level shortwave trough will approach our neck of
+the woods on Thursday night and into Friday. Moisture looks to be
+quite limited with this late-week system, so PoPs have been kept
+on the lower end (which is consistent with the past several
+forecast packages).
+
+37
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    72  58  73  37  46 /   0   0  20  70  60
+Waco                72  57  79  37  46 /   0   0   5  80  80
+Paris               66  56  69  36  44 /   0   0  20  70  50
+Denton              71  57  71  34  46 /   0   0  20  70  40
+McKinney            69  57  71  35  45 /   0   0  20  70  50
+Dallas              73  58  73  37  46 /   0   0  20  80  60
+Terrell             69  58  75  37  46 /   0   0  10  80  70
+Corsicana           70  59  76  39  45 /   0   0   5  80  80
+Temple              73  58  79  39  46 /   0   0   0  80  90
+Mineral Wells       74  56  70  33  44 /   0   0  20  70  50
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+91

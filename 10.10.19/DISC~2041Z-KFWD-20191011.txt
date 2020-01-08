@@ -1,0 +1,182 @@
+295
+FXUS64 KFWD 112041
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+341 PM CDT Fri Oct 11 2019
+
+.LONG TERM...
+/Saturday Night through Friday/
+
+The extended portion of the forecast will remain a little more
+active as the upper pattern will feature periodic shortwaves
+through the central U.S. The cold high pressure currently building
+into the region will have shifted off to the east by Saturday
+evening allowing weak southerly flow to return. With an increase
+in cloud cover, temperatures should be about 10-12 degrees warmer
+by early Sunday morning. Low and mid tropospheric flow will
+strengthen overnight Saturday night in response to a large upper
+low over the Great Lakes. As it does, a weak impulse will race
+through the Southern Plains late overnight. While we will still be
+generally void of low level moisture, strong isentropic ascent
+and moisture advection between 700-500 mb will result in thick mid
+level cloud cover. These types of setups often result in
+widespread elevated radar echoes indicative of precipitation which
+may or may not make it to the ground deepening on how dry the sub
+cloud layer is. Given the expected strong mid level ascent within
+an area of modest lapse rates, we`ll have some 20% PoPs for
+potential elevated showers and perhaps a rumble of thunder. This
+would mainly be late Saturday night into early Sunday morning.
+Sunday should otherwise be a nice day with the disturbance passing
+well east of the area by afternoon, and skies becoming sunny.
+Highs should top out in the mid to upper 70s.
+
+Attention quickly turns to an early week system that has at least
+some potential to produce heavy rainfall across parts of North
+Texas, mainly on Tuesday. We`ll be monitoring a synoptic setup
+favorable for producing a predecessor rain event (PRE) across
+parts of the region. This setup features a tropical cyclone over
+the eastern Pacific which has mid and high level moisture
+exhausted off to the northeast over the high terrain of Mexico and
+into Texas. Meanwhile, a mid level trough will be swinging
+through the Plains allowing a strong upper jet to be positioned
+favorable over North Texas. In the low levels, moisture will
+rapidly be transported northward in response to upstream surface
+pressure falls in the Plains. This rapid low level moistening
+occurs as the upper levels have already been primed by the
+tropical system. This results in a rapid column moistening and is
+indicated by PWs climbing from just under 1" early Monday morning
+to almost 2.1" overnight Monday night. With strong forcing aloft
+from the passing shortwave and favorable jet dynamics, we could
+see a band of very heavy rainfall somewhere across North or
+Central Texas beginning late Monday night into Tuesday. At this
+time there are still some uncertainties as to how this will play
+out. The tropical system in the eastern Pacific is still just an
+area of disturbed weather and does not have any established upper
+outflow. Model guidance is in good agreement though with a
+tropical cyclone developing over the weekend, and also shows a
+good upper level moisture connection into North Texas early next
+week. Guidance also has consensus with some heavier QPF amounts
+across North and East Texas late Monday into Tuesday. While these
+amounts shouldn`t be used explicitly, they do signal a surge of
+moisture into the region along with supporting dynamics for a
+heavy rainfall event. All that being said, we`ll have some fairly
+high PoPs late Monday night into Tuesday and continue to monitor
+this closely given the recent rainfall across the region.
+
+Rain chances should diminish with the passage of a cold front on
+Wednesday, although we`ll still hang on to some low level moisture
+into the end of the week. Temperatures will top out in the 80s on
+Monday and Tuesday with 70s behind the front Wednesday through the
+end of the week.
+
+Dunn
+
+&&
+
+.SHORT TERM... /Issued 101 PM CDT Fri Oct 11 2019/
+/Through Saturday afternoon/
+
+Synopsis: The coldest temperatures since last March are expected
+tonight. While a widespread freeze is not anticipated, patchy
+frost will be possible north and west of DFW, and precautions will
+need to be taken to protect sensitive vegetation. Saturday looks
+to be a beautiful day with highs in the 60s under sunny skies.
+
+What a difference 24 hours can make! This time yesterday,
+Dallas/Fort Worth was sitting at 88 F (on its way to a high of 92
+F), and now, we find DFW at 50 F (after a morning low of 43 F).
+The low of 43 F this morning was one degree above the record low
+for this date set back in 1932 and 1990. A similar story at Waco
+where a morning low of 43 F was observed, which is also one degree
+above its record for this date set in 1990 and 1994.
+
+North and Central Texas this afternoon are in the wake of a strong
+cold front, now near the Gulf Coast. Strong cold air advection is
+underway across the interior CONUS as a stout 1037 mb high builds
+over the Rocky Mountains. This frigid air mass has brought much
+below average temperatures to most of the country between the
+Mississippi River and the Sierra Nevada (near zero, and in some
+cases, sub-zero temperatures were seen in parts of the high
+Rockies this morning). Closer to home, a band of rain showers
+continues across our southeastern counties, near the 850 mb cold
+front. These showers should move on out during the next few hours.
+
+Tonight, the surface high will build farther south, bringing
+light winds and clear skies to much of North Texas. This will
+allow for excellent radiational cooling, with lows likely to fall
+into the 30s for much of the region. The exceptions will be parts
+of Central Texas where some cloud cover will linger, and in the
+urban core of the Dallas/Fort Worth Metropolitan Area. North and
+west of DFW, some patchy frost will be possible as temperatures
+fall into the mid 30s. We do not anticipate any widespread
+freezing conditions tonight, thus will not issue any Freeze
+Warnings at this time. That being said, some low spots or
+sheltered locations across parts of Young, Jack, Stephens, and
+Montague Counties could see a light freeze, though the grids do
+not explicitly show sub-freezing temperatures. With the growing
+season nearly complete, opted to not issue a Frost Advisory
+either, but will continue to highlight potential for frost in
+DSS/social media products. People north of Interstate 20 and west
+of U.S. Highway 281 are urged to take precautions to protect
+sensitive vegetation.
+
+Saturday looks to be beautiful. After a cool start, temperatures
+should climb into the 60s with abundant sunshine. Winds will start
+out from the north to northeast, but should gradually veer out of
+the east-southeast to southeast by late afternoon. Some cloud
+cover may continue in parts of Central Texas, but a solid mix of
+clouds and sun appears likely. Simply put, tomorrow could not
+really be any better for outdoor activities.
+
+Godwin
+
+&&
+
+.AVIATION... /Issued 1237 PM CDT Fri Oct 11 2019/
+/18Z TAFs/
+
+Concerns -- SHRA continuing for KACT. Gusty northerly winds.
+Return to south flow late Saturday.
+
+A strong cold front passed through North and Central TX...leaving
+gusty northerly winds in its wake. Sustained winds of 15-20 KT
+along with gusts to around 25 KT will continue at all terminals
+through early evening. While precipitation has moved out of the
+Metroplex...a solid line of SHRA continues across Central TX. The
+bulk of this SHRA has moved through KACT...but some spotty SHRA
+activity may continue for another few hours...resulting in brief
+reductions in visibility and cigs below 3 kft AGL. SHRA should
+come to an end late this afternoon.
+
+Saturday looks to be a beautiful day. VFR and light winds are
+expected at all terminals. DFW should be able to see a return to
+south flow operations by mid-afternoon as high pressure slides off
+to the east.
+
+37
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    40  65  53  77  62 /   0   0  20  10   0
+Waco                41  63  53  79  62 /   5   5  20  10   5
+Paris               37  62  46  70  54 /   0   0  10  10   0
+Denton              36  64  51  78  59 /   0   0  20   5   0
+McKinney            36  65  50  75  58 /   0   0  20  10   0
+Dallas              42  67  54  77  62 /   0   0  20  10   0
+Terrell             38  65  51  76  59 /   0   0  20  20   5
+Corsicana           41  64  52  74  60 /   5   5  20  20   5
+Temple              41  63  53  78  62 /   5  10  10   5   0
+Mineral Wells       36  65  49  80  59 /   0   5  20   5   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+91

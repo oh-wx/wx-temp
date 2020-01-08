@@ -1,0 +1,137 @@
+000
+FXUS61 KILN 141441
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+941 AM EST Sat Dec 14 2019
+
+.SYNOPSIS...
+Low pressure over western Pennsylvania this morning will move
+off to the east today bringing rain to an end. High pressure
+will build in tonight and Sunday and then quickly move off to
+the east. A storm system with a mix of precipitation will
+approach on Sunday night and then move through the Ohio Valley
+Monday into Monday night.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Rain continues across roughly the eastern part of the forecast
+area this morning with the back edge making its way across
+east central Indiana and northwest Ohio. A s/wv is driving our
+the pcpn activity. As it passes northeast across the area, the
+rain will come to an end. Some breaks in the clouds may develop
+during the afternoon in the wake of this system. Temperatures
+are starting off relatively mild, so even though readings will
+not rise too much, highs will still get into the lower to
+perhaps the mid 40s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM SUNDAY/...
+Cold air advection, low level flow off Lake Michigan, and a
+weak northern stream short wave will thicken clouds across the
+area again overnight. Cannot rule some light precipitation with
+this disturbance across far northern counties with thermal
+profiles suggesting rain changing to snow out of anything that
+develops. Lows will be near normal.
+
+High pressure will build in for Sunday which will help erode
+lower clouds. But mid to high clouds in advance of the next
+system will be overspreading the region, so any clearing will
+be brief. Looks like we may get about a 10 degree rise from
+morning lows.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+Challenge in the forecast occurs fairly early on and resides in the
+various ptypes expected. Precip will quickly ramp up as a warm front
+enters from the west early Sunday evening, overspreading most of if
+not the entire CWA by midnight. Warming temperatures aloft will help
+the area of snow and freezing rain to lift northward slowly
+overnight. Daytime insolation on Monday will give most of the area
+plain rain, but a mix of snow may still occur through the day in
+west central Ohio. This mix will slowly spread eseward in the
+evening as the surface low ejects northward ahead of the upper level
+trough. Rain will then mix with and change over to snow for all but
+the southeast before ending by daybreak Tuesday in most locations.
+
+Heavy rain is possible in the southeast CWA as upper level flow is
+fairly strong from the southwest, giving a continued feed of
+moisture that will get wrung out as it interacts with the surface
+low. If not heavy rain, a steady moderate rain is giving pause to
+WPC who has put the area in a slight risk of excessive rainfall for
+Monday. Amounts southeast of the I-71 corridor should top an inch
+and could reach near 2 inches in portions of northern Kentucky and
+far south central Ohio.
+
+Icing with freezing rain is not out of the question for much of the
+forecast area north of the Ohio River, primarily Sunday night. While
+the models are in fair agreement, the complex thermal profiles in
+and around the warm front that this precipitation will be entering
+with and subsequently lift northward are still uncertain. Snow is
+also a little tricky but easier spelled out than the threat of
+freezing rain. Expect less than a half inch along and south of the
+Ohio River. One to two inches are expected in the northern half of
+the CWA, with a strong gradient from that half inch at the river to
+almost 2 inches near I-70.
+
+Thermal profiles are still subject to a not insignificant change,
+and headline winter weather is not a prudent product at this time.
+Regardless, Sunday night into early Monday will see much of the area
+with a wintery mix in the north, and steady rain to the south.
+
+Tuesday will see just a chance of lingering snow exiting early in
+the day. This will mark the change in the pattern with dry
+conditions expected through the remainder of the forecast. Tuesday
+will see highs range from 30 in the northwest to 40 in the
+southeast, with overnight lows dipping from the mid teens to around
+20 for daybreak Wednesday. The coldest air will occur Wednesday as
+the surface high in the Midwest and northwest upper flow behind the
+l/w trough combine to keep highs in the 20s north of the Ohio River
+and around  or just below freezing south of the river.
+
+Wednesday night will be a bit more uniform in temperatures around 20
+degrees, with a warmup expected for the remainder of the week.
+Thursday will be in the mid 30s to low 40s, Friday within a few
+degrees of 40 and Saturday generally between 40-45, all of which
+will be coldest in the north and warmest in the south given a
+southerly flow through this time. Overnight lows will be in the
+upper 20s to around 30.
+
+&&
+
+.AVIATION /15Z SATURDAY THROUGH WEDNESDAY/...
+Rain will occur through the early part of the TAF period. While
+this will generally be light, there may be some lower visibility
+between the rain and some mist. Ceilings will fall to IFR where
+they are not that low already. Rain will move off to the east of
+the terminals between 14Z and 18Z which will also coincide with
+any visibility restrictions. IFR ceilings will improve to MVFR.
+There could be some breaks in the ceiling later in the day, but
+even if this occurs it will be temporary as MVFR ceilings are
+expected across the area overnight. North winds will increase a
+bit early on. They will then veer to northwest and eventually
+west at around 10 kt.
+
+OUTLOOK... MVFR ceilings will continue into Sunday morning.
+MVFR to IFR ceilings and visibilities are likely again late
+Sunday night into Monday night.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+KY...None.
+IN...None.
+
+&&
+
+$$
+SYNOPSIS...Hickman
+NEAR TERM...Hickman
+SHORT TERM...
+LONG TERM...Franks
+AVIATION...

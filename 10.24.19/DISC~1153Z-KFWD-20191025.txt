@@ -1,0 +1,162 @@
+176
+FXUS64 KFWD 251153 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+653 AM CDT Fri Oct 25 2019
+
+
+.AVIATION...
+/12 UTC TAF Cycle/
+
+Concerns---Ceiling and visibility trends.
+
+A large blanket of IFR cigs persist this morning mainly at D10
+terminals. IFR cigs will continue through the day as modest lift
+coupled with low level saturation will remain in place. IFR vsby
+at D/FW...DAL and GKY can be expected as a slightly greater band
+of ascent continues to rotate northeastward. By mid-morning, MVFR
+to VFR vsby is likely. Toward the afternoon, MVFR cigs will be
+possible as solar insolation attempts to work on the low level
+moisture field. Confidence in the timing to the return to MVFR is
+low and it is quite possible that cigs remain below 1KFT. Breezy
+west to northwest winds may induce a crosswind component for
+north-south oriented runways. These crosswinds....when coupled
+with IFR conditions, will result in impacts to the North Texas
+airspace. MVFR is expected through the entire TAF cycle at
+Waco...though cigs may fall into the IFR category at times this
+morning.
+
+I`ll show an optimistic trend for the latter half of the TAF with
+MVFR this afternoon and through the evening hours. As mentioned
+above, however, these trends may be too optimistic. Regardless,
+intermittent IFR may re-develop after 06 UTC Saturday and I`ve
+included a TEMPO group at most airfields across North Texas as the
+low levels cool and re-saturate to reflect this.
+
+Bain
+
+&&
+
+
+.SHORT TERM... /Issued 334 AM CDT Fri Oct 25 2019/
+/Today and Tonight/
+
+Dreary conditions are anticipated over the next 24 hours
+across most of North and Central Texas. Along with chances for
+rain and patchy drizzle, will be unseasonably cool conditions.
+
+Surface analysis as of 3 AM indicated that the stout front that
+moved through the area on Thursday continues to plow southward
+through the Texas coastline. Warm air advection atop the cooler
+airmass will continue to promote the rainy conditions. With
+instability values slowly dwindling, there shouldn`t be much in
+the way of vigorous convection, though an isolated storm or two
+cannot be ruled out...especially under the cooler upper low. The
+lack of thunderstorm activity should hinder widespread flood
+concerns, though rises on small streams and creeks are possible.
+
+For this afternoon, the most likely area for a slightly greater
+concentration of rain and thunderstorms will be across East Texas
+and along the Red River as a TROWAL (trough of warm air aloft)
+becomes established as the main upper low slowly jogs eastward.
+I`ve nudged PoPs up some from the previous forecast mainly near
+and north of I-20 for this afternoon and into the early evening
+hours. Otherwise, most areas will remain socked in with clouds and
+pockets of drizzle through the afternoon. High temperatures
+across the western Red River Valley into northern parts of the Big
+Country will be the recipients of stronger CAA and highs may
+struggle to get out of the 40s. Across East Texas, however, the
+TROWAL may allow temperatures to approach 60 degrees. At D/FW and
+Waco, we`ll likely be flirting with record low maximum
+temperatures for this date (52 and 56 both in 1957 respectively).
+If clearing occurs more readily (or the TROWAL extends farther
+west) than forecast, however, temperatures will likely shoot up
+into the upper 50s/low 60s. This appears unlikely at this time.
+
+Rain chances will slowly taper off tonight as the upper low (and
+thus the TROWAL) slowly depart the region. While chilly conditions
+are anticipated, the cloud cover will actually keep temperatures
+from plummeting. Overnight lows will still fall below normal
+values with most sites falling into the upper 30s and 40s.
+
+Bain
+
+&&
+
+.LONG TERM... /Issued 334 AM CDT Fri Oct 25 2019/
+/Saturday through Next Week/
+
+The upper low near the Arklatex at the beginning of the period
+will accelerate off to the northeast as a larger scale trough
+begins to deepen over the western CONUS. Temperatures will rebound
+Saturday as skies clear from west to east, with afternoon highs
+climbing well into the 60s. The deepening trough will induce lee-
+Rockies cyclogenesis, causing north winds to shift to the south
+Saturday night. Warm advection will not really get going, however,
+until Sunday, so a chilly Saturday night is still on tap with
+lows in the 40s. Increasing southerly low level flow coupled with
+mostly sunny skies will allow temperatures to climb into the 70s
+area-wide on Sunday.
+
+The positioning of the western trough will actually draw cool
+Canadian air down the eastern flank of the Rockies. With deep
+troughing staying put across the western third of the nation, a
+lead shortwave will race eastward across the Rockies and into the
+Plains on Monday, essentially pushing the the leading edge of the
+cold air southward through the region Monday night. The high
+temperature forecast for Monday gets a little tricky and will
+depend on how quickly the front arrives. For now we will keep
+highs in the 60s across the northwest and 70s elsewhere, and
+adjust as confidence in timing increases.
+
+Scattered showers and a few storms will accompany the front Monday
+night, and at first glance all convective parameters imply that
+severe weather is unlikely. Similar to the ongoing upper level
+storm system, the GFS is really progressive with next week`s
+system, sweeping it through the Plains and bringing an abrupt end
+to precipitation early Wednesday (as are the majority of its
+ensemble members). The current forecast will follow closer to
+ECMWF and Canadian model guidance which indicate a slower and
+partially cut-off system traversing the Plains around mid-week.
+This would keep a cold and wet pattern in place through mid-week
+as strong isentropic ascent persists Tuesday night and possibly
+into Wednesday. Precipitation should then end from west to east
+Wednesday evening as the upper low heads for the Great Lakes.
+
+Below-normal temperatures are likely to begin Monday night or
+Tuesday behind the front. The coldest conditions will likely occur
+Wednesday night as the upper low exits to the east and skies
+clear from the west. Just about all of the forecast area should
+see lows bottom out in the 30s, and locations west of I-35 and
+north of I-20 have a good chance of dropping below freezing by
+daybreak Thursday. Temperatures should remain below normal through
+Friday and then return to near normal readings with dry weather
+appear likely as we enter next weekend.
+
+30
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    52  47  67  48  75 /  80  70  10   0   0
+Waco                54  46  69  46  75 /  40  20   5   0   0
+Paris               56  48  61  43  70 / 100  90  40   0   0
+Denton              53  46  67  45  75 /  90  80  10   0   0
+McKinney            52  48  66  45  73 /  90  80  20   0   0
+Dallas              54  48  67  48  75 /  80  70  10   0   0
+Terrell             56  48  67  46  75 /  90  70  20   0   0
+Corsicana           52  48  66  46  73 /  80  50  10   0   0
+Temple              57  45  69  45  75 /  20  10   0   0   0
+Mineral Wells       49  41  67  43  76 /  50  50   5   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+24/30

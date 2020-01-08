@@ -1,0 +1,157 @@
+592
+FXUS64 KFWD 062123
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+323 PM CST Fri Dec 6 2019
+
+
+.LONG TERM...
+/Sunday Onward/
+
+The main focus of the extended forecast is next Monday night and
+Tuesday when fairly widespread rain will overspread the area, with
+a low potential for some wintry precip.
+
+The forecast period will begin with warm southerly flow associated
+with a broad positively tilted trough encompassing most of the
+CONUS. This will lead to a warm and pleasant Sunday with some
+gradually increasing cloud cover throughout the day. Highs will
+be well above normal, with some readings near 80 west of I-35.
+
+A pair of shortwaves embedded within the aformentioned broad
+parent trough will bring some significant changes during the first
+half of the week. While Monday will be off to a warm start, a
+cold front associated with a lead shortwave will move into North
+Texas by the afternoon. An ill-defined dryline feature will get
+pulled through the CWA immediately in advance of the front,
+scouring the rather meager low-level moisture already in place.
+This will keep the actual frontal passage dry as the boundary
+sweeps through during the afternoon hours. Fairly strong cold
+advection should send temperatures falling into the 50s by the
+evening with overnight lows reaching the mid and upper 30s.
+
+The second more vigorous shortwave will dig eastward from
+California Monday night into Tuesday morning. Strong synoptic-
+scale ascent will occur downstream of this trough in conjunction
+with an intensifying upper jet streak. This should aid in the
+development of a mid-level frontogenetical band of precipitation
+developing to our west and spreading eastward into the CWA Monday
+night. The low levels will remain rather dry during this time
+period, but light rainfall should eventually be capable of
+reaching the ground as top-down saturation occurs. Evaporative
+cooling will also aid in cooling the column in conjunction with
+post-frontal cold advection. While a cold rain remains the most
+likely precipitation type through Tuesday morning, there is at
+least a low potential for some snow or sleet pellets to mix with
+rain during this time period. Unfortunately, model spreads of low-
+level temperature fields deviate highly on Tuesday morning, with
+GEFS surface temperature differences of as much as 10-15F. The
+low-level thermal profiles will be crucial for this forecast, but
+there is much uncertainty still at this time. It`s worth noting
+that only about ~20% of GEFS members suggest a potential for a
+wintry mix, with the others either remaining too warm or too dry
+through the low levels. The good news (barring any drastic
+changes) is that surface temperatures are expected to be in the
+mid or upper 30s, so even if a changeover to wintry precip could
+occur, any accumulation or impacts would be unlikely. Precip is
+expected to taper off to the southeast by Tuesday evening.
+
+Upper ridging will build through the middle portion of the week as
+we remain between systems. The return of southerly flow will mean
+a gradual warming trend, although highs will remain close to
+normal in the upper 50s and low 60s. Large-scale subsidence and
+drier air will keep the area precip-free Wednesday and Thursday,
+but another fast-moving shortwave may allow for rain chances to
+return Thursday night and Friday.
+
+-Stalley
+
+&&
+
+
+.SHORT TERM... /Issued 1232 PM CST Fri Dec 6 2019/
+/Today and Tomorrow/
+
+The passage of last night`s cold front has left North and Central
+Texas firmly in the grips of a post-frontal airmass today. This
+has brought in a brisk north wind, mostly clear skies, and cooler
+temperatures to the area. A few patches of wrap around stratus
+across East and Central Texas should clear over the next few hours
+as both heating from below and isentropic descent from above work
+to erode the low level cloud deck. The winds will also begin to
+subside as we head into the late afternoon/evening hours as the
+surface low continues east and the pressure gradient across the
+area weakens.
+
+The post-frontal surface high center will quickly continue east
+overnight into the Midwest, with north winds continuing locally as
+the surface ridge remains centered to our west. Most of the area
+will be under a blanket of upper level clouds tonight, which should
+help to regulate radiational cooling. Nonetheless, tonight will
+be much cooler than last, with temperatures generally in the upper
+30s to low 40s with some areas across our far northwestern
+counties dropping at/below freezing.
+
+The quick easterly movement of the surface high will allow the
+low level winds aloft to veer to the east by the early morning
+hours. This will advect a pool of low level moisture into East
+Texas after midnight, spreading into North and Central Texas east
+of I-35 by daybreak tomorrow. Once the nocturnal inversion breaks
+by mid morning, light southerly/southeasterly winds will prevail
+across the area. Temperatures should be slightly cooler than today
+largely due to weaker insolation and continued cold air advection
+overnight.
+
+Bonnette
+
+&&
+
+.AVIATION... /Issued 1232 PM CST Fri Dec 6 2019/
+/18Z TAFs/
+
+Concerns: Gusty north winds early this afternoon. MVFR ceilings
+tomorrow morning.
+
+Post-frontal gusty winds up to 20-25 kts will continue through
+the early parts of the valid TAF period as high pressure moves
+into the area. The wind speeds will gradually weaken through the
+afternoon, lessening to AOB 10 kts by 00-02Z. Patchy areas of MVFR
+stratus still lingering across Southeast Texas will completely
+erode by 21Z allowing VFR to prevail across the region this
+afternoon.
+
+An area of MVFR stratus will move into the eastern fringes (from
+the east) of D10 by 12-14Z tomorrow morning. The current TAF
+includes prevailing MVFR ceilings at DAL/GKY after 15Z, with a
+40% chance of at least tempo MVFR ceilings moving into the
+remaining D10 terminals and KACT between 15-19Z. By mid morning,
+the winds will also become out of the east/southeast with speeds
+remaining AOB 10 kts through the day.
+
+Bonnette
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    40  60  46  72  57 /   0   0   0   0   0
+Waco                40  63  45  74  56 /   0   0   0   0   0
+Paris               40  57  44  66  55 /   0   0   0   0   0
+Denton              36  59  45  71  55 /   0   0   0   0   0
+McKinney            38  58  45  70  56 /   0   0   0   0   0
+Dallas              41  60  47  71  58 /   0   0   0   0   0
+Terrell             41  61  45  71  56 /   0   0   0   0   0
+Corsicana           43  61  46  71  58 /   0   0   0   0   0
+Temple              41  63  46  74  57 /   0   0   0   0   0
+Mineral Wells       35  60  44  74  54 /   0   0   0   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+26/06

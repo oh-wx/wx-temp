@@ -1,0 +1,138 @@
+000
+FXUS64 KFWD 181125
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+525 AM CST Mon Nov 18 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+Concerns-None.
+
+VFR is expected to persist through the next 30 hours across North
+and Central Texas. Winds have become light for much of the
+region, with a gradual backing expected through the rest of the
+morning. A few high clouds will continue to traverse the North
+Texas sky this morning, but no impacts are expected at any of the
+terminals. Southwesterly winds will dominate this afternoon,
+generally staying around 5-8 kts. Overnight, skies are expected to
+be clear with winds likely dropping below 5 kts as they gain a
+more westerly component.
+
+Hernandez
+
+&&
+
+
+.SHORT TERM... /Issued 212 AM CST Mon Nov 18 2019/
+/Today and Tonight/
+
+The northerly winds that were in place yesterday afternoon were
+short lived as winds have started to swing around from the
+northwest, and eventually from the southwest this afternoon. It is
+these southwesterly downsloping winds that will allow for
+temperature to climb into the 70s today. Given guidance tends to
+underdo the warming effects of the downsloping terrain, have sided
+with the warmer guidance.
+
+A weak shortwave moving along the northwesterly flow aloft will
+allow for some high clouds through much the morning, especially
+north of I-20. These high clouds should continue moving to the
+southeast and exit the region by the afternoon.
+
+Lows tonight will be in the mid 40s to around 50 degrees as winds
+become light out of the southwest.
+
+Hernandez
+
+&&
+
+.LONG TERM... /Issued 212 AM CST Mon Nov 18 2019/
+/Tuesday onward/
+
+The theme of the forecast for the upcoming week remains largely
+unchanged with this forecast package. Monday and Tuesday look to
+be fairly quiet in terms of weather, with things becoming more
+active for the back half of the week. A few strong to severe
+thunderstorms as well as locally heavy rainfall may be possible on
+Thursday.
+
+The main driver of the active weather later in the week will be a
+strong upper-level trough that is forecast to dig into the western
+United States by mid-week. The timing differences that we have
+been seeing between the GFS and ECMWF appear to be closing a bit,
+though the ECMWF does remain a bit slower than the GFS (with the
+GFS known to have a fast bias, and the ECMWF known to have a
+slow, albeit smaller bias). Ahead of the main longwave trough, a
+shortwave trough will propagate across the Southern Plains,
+resulting in surface cyclogenesis across the Central Plains. This
+will in turn bring gusty southerly winds to our forecast area.
+While this would normally lead to some concerns for an elevated
+fire danger, humidity will be on the increase, tempering this
+threat.
+
+As lift associated with the shortwave trough increases, isolated
+to widely scattered showers and thunderstorms are forecast to
+develop across West Texas, and track northeast across western
+North Texas and into Oklahoma. Our highest PoPs on Wednesday
+afternoon and Wednesday night will be along the Red River, north
+and northwest of the Dallas/Fort Worth Metropolitan Area.
+
+On Thursday, the surface low will lift north into the Midwest,
+pushing a cold front into North Texas. More widespread shower and
+thunderstorm development can be expected Thursday, with Likely
+PoPs now indicated across much of our county warning area during
+this timeframe. The deterministic GFS also shows CAPE values of
+around 500 J/kg combined with strong (60+ knot) deep-layer wind
+shear. Instability is probably a little on the low side for
+significant severe weather, but with this strong of shear and
+low-level forcing, a few strong thunderstorms capable of gusty
+winds and small hail may not be out of the question. Additionally,
+the fact that these showers and thunderstorms will be widespread
+and last much of the day, widespread rainfall accumulations of
+0.50 to 1.50 inches look likely. The highest rainfall totals will
+be in our northeastern counties, with rainfall accumulations
+decreasing the farther southwest one goes. Locally higher amounts
+in excess of three inches will be possible in some locations,
+which could lead to localized flooding of flood-prone areas.
+
+Showers and thunderstorms will continue behind the front on
+Thursday night and into Friday, but coverage and intensity should
+decrease through the day Friday. The majority of the showers and
+thunderstorms should end by Friday evening, but some lighter rain
+may still linger, especially east of Interstate 35. By and large
+though, Friday evening should be characterized by cool and cloudy
+conditions, with just isolated to scattered light rain showers.
+
+The weekend and Monday look cool but dry, with rain and
+thunderstorm chances looking to return by next Tuesday as another
+upper-level trough swings into the western United States.
+
+37
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    72  48  74  56  73 /   0   0   0   0  40
+Waco                71  43  76  56  75 /   0   0   0   0  30
+Paris               66  45  71  51  71 /   0   0   0   0  30
+Denton              71  44  74  54  72 /   0   0   0   0  50
+McKinney            69  44  74  54  72 /   0   0   0   0  40
+Dallas              70  48  75  56  74 /   0   0   0   0  40
+Terrell             70  46  75  54  74 /   0   0   0   0  30
+Corsicana           70  45  74  54  74 /   0   0   0   0  30
+Temple              72  44  75  56  74 /   0   0   0   0  20
+Mineral Wells       73  43  74  54  72 /   0   0   0   0  40
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+08

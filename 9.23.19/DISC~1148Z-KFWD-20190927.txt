@@ -1,0 +1,134 @@
+000
+FXUS64 KFWD 271148
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+648 AM CDT Fri Sep 27 2019
+
+.AVIATION...
+/12Z TAFS/
+
+The main concern through the period will be the potential for MVFR
+cigs this morning and again Saturday morning. Satellite imagery
+shows a swath of low clouds spreading north out of Central Texas
+this morning. Cigs associated with this batch of clouds have
+generally been just above 1000 ft. We`ll have a TEMPO in at Waco
+for the next few hours as they are skirting right along I-35. Some
+of these may briefly get into DAL through 15Z before the low level
+jet veers and takes the bulk of the moisture off to the east.
+
+There will be some scattered showers over southeast TX this
+afternoon but most of this activity will remain well removed from
+the major airports.
+
+Another round of MVFR cigs is expected Saturday morning and will
+likely be more expansive in coverage. We`ll have some MVFR cigs in
+at Waco, but these may need to be added to the Metroplex at the
+18Z issuance. The upper low over the southwest U.S. will eject
+eastward tomorrow and may provide some lift for scattered
+afternoon showers and storms. We`ll continue to monitor this
+potential through the day.
+
+Dunn
+
+&&
+
+.SHORT TERM... /Issued 345 AM CDT Fri Sep 27 2019/
+/Today and Tonight/
+
+North Texas remains under the influence of mid and upper level
+subtropical ridging which will continue to keep things hot and
+mostly dry for the foreseeable future. Today will be no
+exception, although a disturbance over the southwest U.S. will
+have some minor impacts on our weather.
+
+Satellite imagery shows clear skies this morning across North
+Texas, although an expanding area of stratus is noted across parts
+of Central Texas and this should continue to spread northward
+along the I-35 corridor through morning. Area VAD wind profiles
+indicate a 30-40 kt southerly wind between 925-850 mb. This
+stronger low level jet is in response to a deepening low over the
+central Plains ahead of the disturbance over the Southwest. While
+the GOES precipitable water product does show drier air over North
+Texas, there is a pool of better moisture along the coast. This
+moisture rich air will spread north through the day. So, we`ll
+likely have to deal with some morning low clouds along the I-35
+corridor and areas east.
+
+The surge of low level moisture will be accompanied by weak low
+level warm advection and we could see some scattered showers
+spread into our far southeastern counties this afternoon.
+Otherwise, most areas will remain hot and dry. Highs today will
+top out in the mid 90s. Any ongoing showers this afternoon will
+diminish this evening and partly cloudy skies will prevail with
+lows falling into the mid 70s.
+
+Dunn
+
+&&
+
+.LONG TERM... /Issued 345 AM CDT Fri Sep 27 2019/
+/Saturday and beyond/
+
+The last weekend of September and first week of October will
+continue to feature temperatures well above seasonal normals.
+There are a few chances for showers/storms over the next few
+days, but these chances remain low (30% or less) and most won`t
+see much measurable rainfall.
+
+The cut-off low will be embedded with the main upper level flow by
+Saturday and provide low chances for rain/storms as it translates
+northeastward. The increase in southerly winds will help moisture
+stream across the region, aiding in some isolated to scattered
+storms on Saturday. However, the best forcing for ascent may
+remain displaced from our region, and PoPs will be limited to
+20-30% across North and Central Texas. The upper level ridge
+across the Southeast will continue to build and limit rain chances
+for the eastern half of the region through the latter half of the
+weekend and into the work week. With our region located along the
+western periphery of the ridge, the only areas with a low chance
+for showers/storms will remain across parts of Central Texas each
+afternoon through the first half of the work week. I expect mostly
+isolated to scattered coverage of showers/storms associated with
+the seabreeze as there won`t be much forcing for ascent due to the
+effects of the ridge. Otherwise, most of North and Central Texas
+will begin the month of October with rain-free conditions and
+above-normal temperatures.
+
+Unfortunately, the slight glimmer of hope of relief from the heat
+by the Thursday/Friday continues to fade. Most of the latest model
+guidance continues to trend on the warmer end of the spectrum,
+with afternoon high temperatures on Thursday in the low to mid
+90s. The latest GFS attempts to push the cold front through the
+region on Thursday allowing temperatures to cool and bring us
+much needed rainfall. However, the ECMWF and ensembles trend
+toward a warmer and drier solution with the cold front remaining
+northwest of the region and only limited rain chances across the
+northwest as riding remains in place.
+
+Garcia
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    94  76  94  77  94 /   0   5  10   5  20
+Waco                94  76  96  76  95 /   5   5  20  20  20
+Paris               90  72  89  73  89 /   0   5  10   5   5
+Denton              94  75  94  76  92 /   0   5  10  10  20
+McKinney            93  75  93  75  92 /   0   5  10   5  10
+Dallas              94  77  94  77  94 /   0   5  10   5  10
+Terrell             93  75  95  76  94 /   0   5  20   5  10
+Corsicana           92  75  93  76  93 /   5   5  20   5  10
+Temple              94  75  95  75  94 /  10   5  30  20  30
+Mineral Wells       95  73  94  75  91 /   0   5  20  10  20
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+91

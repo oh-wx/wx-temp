@@ -1,0 +1,109 @@
+000
+FXUS64 KOUN 101424 AAA
+AFDOUN
+
+Area Forecast Discussion...UPDATED
+National Weather Service Norman OK
+924 AM CDT Thu Oct 10 2019
+
+.UPDATE...
+Cold front is quickly moving across the area this morning. Temperatures
+rapidly fall after the front passes. The front is moving faster
+than previously forecast so made adjustments to account for this.
+Some showers/storms continue to develop in parts of southern OK
+and north TX this morning. Additional storms are expected to
+develop along the front with some of these storms potentially
+becoming severe. With the faster movement of the front, made a
+slight adjustment SE. Will continue to monitor conditions and make
+adjustments for frontal timing as the day progresses.
+
+&&
+
+.PREV DISCUSSION... /issued 629 AM CDT Thu Oct 10 2019/
+
+AVIATION...
+A strong cold front has already made it over WWR early this
+morning, and will continue to march southward throughout the day.
+Expect an initial wind shift from the WNW and then NNW thru
+tonight. Gusts to 35 kt will be possible behind the front.
+Thunderstorms are expected to develop very close to OKC/OUN but
+feel like they`ll move out fairly quickly so have included VCTS
+only for the time being. In addition to gusty winds, MVFR cigs
+will also briefly be possible behind the front. Skies should begin
+to clear later today.
+
+PREV DISCUSSION... /issued 416 AM CDT Thu Oct 10 2019/
+
+DISCUSSION...
+
+A warm and humid night will give way to drastic changes today as a
+cold front brings thunderstorms to portions of the area and a much
+colder airmass in behind it. Currently the front is moving
+quickly southward through the Oklahoma and Texas panhandles, and
+is right on the doorstep of our far northwest counties. The front
+will continue its fast progress, nearing the I-44 corridor by 18z
+and will be close to clearing our area by 00z Friday. Expect
+steady or falling temperatures behind the front, with most areas
+staying in the 50`s and 60`s across northern and western Oklahoma.
+Ahead of the front, warm and humid conditions will help create an
+unstable airmass and thunderstorms are expected to quickly fire
+along the front by mid afternoon.
+
+Exactly where the front is located during this time period will
+determine who sees storms and who doesn`t. Right now, we expect the
+majority of the thunderstorm activity to be confined to along and
+southeast of the I-44 corridor, which is where we are outlooked for
+a slight risk of severe thunderstorms. The main threat with these
+storms will be hail and damaging wind gusts, although an isolated
+tornado cannot be ruled out with the initial semi-discrete
+development. As we head into the evening, additional thunderstorms
+may develop behind the front as warm air advection increases atop
+the frontal zone. Elevated instability behind the front does not
+look overly impressive, so these storms should be mostly sub-
+severe with a risk for some small hail.
+
+Temperatures should plummet behind the front as the sun goes down,
+and strong cold air advection continues. Near or slightly below
+freezing temperatures are possible for portions of northwest
+Oklahoma, but held off on upgrading the Freeze Watch at this time
+as forecast temperatures are borderline and there is still some
+lingering uncertainty regarding degree of mixing as winds will
+stay elevated overnight. Continued cold air advection will keep
+temperatures cool on Friday, with highs only in the 50`s for most
+areas. Winds weaken and skies should be clear by Friday night,
+which should create more ideal radiational cooling conditions.
+This will allow for temperatures to drop quickly, and another
+freeze watch will likely be needed later for a larger portion of
+the area Saturday morning.
+
+The deep upper trough begins to lift out by Saturday, which should
+allow for a slow warming trend this weekend. Another front should
+move into the area on Tuesday, but the airmass behind this one
+doesn`t look nearly as cold. At this point the front appears to be
+mostly dry, with only a slight chance for rain across southern
+Oklahoma.
+
+Ware
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Oklahoma City OK  74  39  53  33 /  20  10  10   0
+Hobart OK         74  39  57  34 /  10  10   0   0
+Wichita Falls TX  82  45  58  34 /  20  20  10   0
+Gage OK           56  31  53  33 /  10  10   0   0
+Ponca City OK     72  38  51  32 /  10  10  10   0
+Durant OK         86  47  57  36 /  90  90  30  10
+
+&&
+
+.OUN WATCHES/WARNINGS/ADVISORIES...
+OK...Freeze Watch from late tonight through Friday morning for OKZ004-
+     005-009-010-014.
+
+TX...None.
+&&
+
+$$
+
+25/10

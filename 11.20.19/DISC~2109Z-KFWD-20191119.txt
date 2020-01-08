@@ -1,0 +1,146 @@
+000
+FXUS64 KFWD 192109
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+309 PM CST Tue Nov 19 2019
+
+
+.LONG TERM...
+/Tomorrow Night through Early Next Week/
+
+North and Central Texas will be firmly in the warm sector of a
+synoptic storm system with a closed surface low over Nebraska by
+early tomorrow night. A shortwave trough will be brushing by the
+northern fringes of the forecast area, helping to develop
+scattered showers and isolated thunderstorms across the Red River
+counties. As the shortwave trough continues east, the precip
+should gradually lessen in areal coverage through the early morning
+hours. A warm and moist advective regime in the low levels combined
+with extensive cloud cover will keep Thursday morning`s lows in
+the mid 60s for most of the area...about 20-25 degrees above
+normal!
+
+A slow moving cold front will be making its way south Wednesday
+night, stalling out along the Red River by Thursday morning. The
+stalled out cold front will be the focus for additional widespread
+precip development through the day Thursday as weak shortwave
+troughs move overtop of the boundary. South of the front...largely
+diurnally driven scattered rain showers should develop, becoming
+more widespread east of I-35 toward the late afternoon and evening.
+Most of the precip will be in the form of light to moderate rain
+showers, however a few rumbles of thunder cannot be ruled out. East
+of I-35 and south of I-20 Thursday afternoon, a few isolated strong
+thunderstorms will be possible throughout Big Country south of the
+frontal boundary. The primary threat with any thunderstorms that
+develop will be marginally severe hail.
+
+Another (stronger) shortwave trough will be making its way out of
+the SW CONUS Thursday night. This, combined with a dip in the
+northern branch of the Polar Front Jet across the Central Plains,
+will drive the stalled cold front south. The front will move
+through North and Central Texas Thursday night and Friday morning,
+developing widespread showers and isolated thunderstorms along the
+frontal boundary. Weak cyclogenesis across East Texas Thursday
+night will help to enhance the precip east of I-45...where the
+highest forecast precip accumulations are expected ATTM. Off and
+on light rain showers should continue for a few hours behind the
+front, with all rain coming to an end from west to east by Friday
+evening. The front will also usher in a cooler and drier airmass,
+dropping Friday`s post-frontal temperatures to slightly below
+normal.
+
+All in all...everyone should see at least some rain between now
+and Friday. Storm total rain amounts around 1 inch (with localized
+amounts between 1-2 inches) can be expected along and north of the
+I-20 corridor with lesser amounts expected farther south. For the
+areas south of I-20 and east of I-35, rain amounts less than 0.5"
+are expected.
+
+This weekend looks to have storybook weather with partly cloudy
+skies and temperatures remaining around normal. A light freeze is
+possible across our far northwestern counties Saturday morning
+with overnight lows in the 30s across the region. The center of a
+surface high pressure system will move through the area Saturday
+night into Sunday, allowing warm advection return flow to set up
+across the area late this weekend and early next week.
+
+Our next storm system is expected to make its way into the area
+next Tuesday/Wednesday. The current NAEFS/EPS ensemble guidance
+is projecting a rather deep H5 longwave trough to develop across
+the Central CONUS through the middle parts of next week. This will
+help to bring another bout of cold air into the region ahead of
+Thanksgiving Day. Current deterministic runs have been consistent
+with a very active southern branch of the PFJ coinciding with
+this system, which means this system will have the potential to
+produce at least isolated severe thunderstorms. A lot can change
+between now and then, but it`s something to keep an eye on over
+the next 5-7 days.
+
+Bonnette
+
+&&
+
+.SHORT TERM... /Issued 1227 PM CST Tue Nov 19 2019/
+/Today and Tomorrow/
+
+An upper level ridge axis extends from Texas to the Rocky
+Mountains this afternoon. This feature, along with southerly flow
+at the surface, is bringing well above normal temperatures to
+North and Central Texas. Forecast high temperatures this afternoon
+are in the mid to upper 70s, with lows tonight in the 50s
+area-wide. Cloud cover will start increasing overnight, and much
+of Wednesday will be cloudy, dry and mild with temperatures in the
+mid to upper 70s.
+
+A surface low develops and deepens near the Rockies Wednesday
+afternoon, and a shortwave will move through West and Central
+Texas Wednesday night. Scattered showers and thunderstorms will
+develop Wednesday night across this region, moving into the far
+western zones of the forecast area by early evening. A few strong
+storms with small hail are possible, but would expect most storms
+will remain west of the Metroplex.
+
+Elsenheimer
+
+&&
+
+.AVIATION... /Issued 1227 PM CST Tue Nov 19 2019/
+/18Z TAFs/
+
+VFR conditions and southeast winds at 10 knots or less will
+continue for the rest of the day. Winds remain southeast to south
+overnight, and MVFR ceilings will begin moving northward into
+North and Central Texas early Wednesday morning. Confidence is
+medium that these MVFR ceilings in the 015-025 range will continue
+for much of the day, perhaps lifting into the low-VFR range by
+late afternoon. Showers and thunderstorms are possible Wednesday
+evening, especially to the west of the Metroplex, but chances are
+too low to include at the TAF sites at this time.
+
+Elsenheimer
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    57  75  65  75  51 /   0  20  40  60  80
+Waco                58  78  65  76  55 /   0  20  30  50  60
+Paris               50  71  62  71  52 /   0   5  50  80  90
+Denton              56  74  64  73  48 /   0  30  50  70  80
+McKinney            55  74  64  73  50 /   0  20  40  70  80
+Dallas              57  75  65  75  52 /   0  20  40  70  80
+Terrell             54  76  64  75  53 /   0   5  40  70  80
+Corsicana           55  75  64  73  56 /   0  10  30  60  60
+Temple              57  78  65  76  58 /   0  10  30  40  50
+Mineral Wells       56  73  62  73  46 /   0  40  40  50  80
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+06/26/25

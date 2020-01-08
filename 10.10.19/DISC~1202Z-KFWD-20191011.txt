@@ -1,0 +1,133 @@
+000
+FXUS64 KFWD 111202 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+702 AM CDT Fri Oct 11 2019
+
+.AVIATION...
+/12Z TAFs/
+
+Scattered showers and thunderstorms will continue to develop
+roughly along the 850 mb front. This activity will move east
+across the Metroplex TAF sites until about 14Z with a slightly
+later start and end time in Waco. MVFR ceilings will also
+accompany this activity along with some temporary visibility
+restrictions in light to moderate rain. The precipitation will end
+and ceilings will lift above 3000 ft once the elevated boundary
+sinks south and large scale lift over the wedge of cool/dense air
+decreases. Increasing subsidence on the back side of the departing
+upper low will result in clearing skies from north to south this
+afternoon.
+
+A strong and gusty north to northwest wind this morning between 16
+and 22 knots along with some gusts around 30 knots will gradually
+decrease this afternoon with speeds falling below 12 knots early
+this evening.
+
+79
+
+&&
+
+.SHORT TERM... /Issued 418 AM CDT Fri Oct 11 2019/
+/Today and Tonight/
+
+A broken line of storms will continue impacting portions of
+Central and East Texas early this morning. Although the cells are
+below severe limits, gusty winds of 30 to 40 mph will still be
+possible with the activity before it exits the CWA by sunrise.
+Behind the line, gusty north winds are ushering in the coolest air
+of the season. However, this wind shift at the surface will not
+spell an end to the rain chances. Some overrunning moisture has
+produced some lingering showers, but the bulk of the postfrontal
+activity will continue to be focused near the 850mb front. This
+steep incline along the frontal slope is responsible for the
+renewed development from the Concho Valley and Big Country
+northeastward into southern Oklahoma. While this activity is not
+expected to become severe, it will result in some rumbles of
+thunder and brief heavy rain as the cells spread across North
+Texas through the morning commute.
+
+Sustained wind speeds will occasionally flirt with the wind
+advisory criterion, but the limited duration should preclude the
+need for an advisory. The strongest winds will be confined to the
+morning hours during which gusts will frequently exceed 30 mph.
+Combined with temperatures in the 40s and 50s, the wind chill will
+make yesterday`s heat feel like a distant memory. The incidence of
+thunder will steadily diminish through midday, but the elevated
+frontal boundary will take much of the day to clear the CWA. In
+our Central and East Texas counties, rain will linger well into
+the afternoon, and the accompanying cloud cover will keep
+temperatures in the 50s. The sun will re-emerge in areas along and
+north of the I-20 corridor, and while the north winds will
+maintain the cold advection and the corresponding chill in the
+air, the mercury may top 60F during the mid to late afternoon.
+
+The postfrontal surface high will settle into North Texas tonight,
+diminishing wind speeds. Combined with clear skies and low
+humidity, overnight temperatures will plummet. Radiational cooling
+will be maximized across our northern and western zones where the
+axis of the high will be anchored during the predawn hours. These
+areas will see daybreak temperatures in the 30s, encouraging the
+development of frost. In the Dallas/Fort Worth heat island and in
+our breezier southern zones, temperatures will bottom out in the
+40s, precluding frost and the need to protect sensitive
+vegetation.
+
+25
+
+&&
+
+.LONG TERM... /Issued 418 AM CDT Fri Oct 11 2019/
+/This Weekend Through Next Week/
+
+After an unseasonably cool start to Saturday, temperatures will
+rebound into the 60s. While still the coolest Saturday since May
+11, the light winds and low humidity will make for a remarkably
+pleasant afternoon (with temperatures about 10 degrees warmer
+than Friday afternoon`s). An impulse embedded in zonal flow will
+pass overhead Saturday night into Sunday morning, increasing cloud
+cover and perhaps resulting in a few sprinkles of rain. The deep
+dry layer beneath this lift should limit the precipitation, but
+the clouds will keep Saturday night`s temperatures about 10
+degrees warmer than the preceding night. In the disturbance`s
+wake, sunny skies and even warmer temperatures are expected
+Sunday. High temperatures will continue to increase by about 10
+degrees each day, returning to the 80s regionwide by Monday.
+
+The subtropical ridge will assume its more seasonal position over
+the Gulf of Mexico next week, maintaining mid-latitude westerlies
+over the Lone Star State. This flow will begin tapping into a deep
+conveyor of tropical moisture from the Pacific, resulting in rain
+chances more indicative of the second wettest month of the year.
+Tuesday may be the wettest day as this plume of moisture interacts
+with our next cold front. This front will not be as strong as its
+predecessor, resulting in seasonal daytime temperatures in the 70s
+for Wednesday and Thursday.
+
+25
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    60  42  67  52  76 /  40   0   0  30  20
+Waco                58  42  67  52  78 /  50   5   5  20  20
+Paris               57  36  62  46  69 /  60   0   0  10  20
+Denton              60  35  66  50  77 /  30   0   0  20  20
+McKinney            59  36  66  49  75 /  40   0   0  20  20
+Dallas              60  43  67  53  76 /  40   0   0  30  20
+Terrell             57  37  67  51  75 /  70   0   0  30  30
+Corsicana           56  40  66  52  74 /  70   5   5  30  30
+Temple              56  44  67  52  78 /  60  10  10  20  10
+Mineral Wells       60  35  67  49  80 /  20   0   0  20  10
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+79/25

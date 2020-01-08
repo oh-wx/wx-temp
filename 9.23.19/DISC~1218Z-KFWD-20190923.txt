@@ -1,0 +1,236 @@
+FXUS64 KFWD 231218 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+718 AM CDT Mon Sep 23 2019
+
+
+.AVIATION...
+
+/12 UTC TAF Cycle/
+
+Concerns---Convective potential at Metroplex TAF sites.
+
+VFR will prevail at all TAF sites with a brief opportunity for
+MVFR stratus at Waco this morning. Otherwise, the main concern
+through the afternoon hours will be SHRA and TSRA cluttering the
+North Texas airspace. Current indications are that showers will
+gradually build southward through the day, with some of the SHRA
+INVOF AFW this morning. It is possible that VCSH may be required
+for other D10 aerodromes this morning, but confidence to do so at
+this point is too low to include. Impacts to northbound departures
+as well as Bowie and Bonham arrival gates are probable during the
+morning push.
+
+The mid to late afternoon time period offers the best chance for
+TSRA INVOF Metroplex terminals and I`ve continued the mention of
+VCTS from 2100 UTC through 0000 UTC with medium confidence in the
+occurrence of VCTS. The timing of VCTS will likely require some
+adjustments through the day and it`s possible that TEMPO TSRA will
+be necessary for a few if not all sites. Accompanying TSRA will
+likely be reduced vsby, cigs and erratic winds. A brief shift to a
+north flow may be required as a windshift sags southward through
+the D10 airspace late this afternoon/early this evening. A return
+to south flow is likely for the Tuesday morning push, however, as
+this boundary lifts northward.
+
+Bain
+
+&&
+
+
+.SHORT TERM... /Issued 414 AM CDT Mon Sep 23 2019/
+
+/Today Through Tuesday/
+
+Rain and isolated thunderstorm chances will continue today
+and tomorrow (Tuesday) mainly for parts of North Texas. The
+highest rain chances are during the afternoon hours, and there is
+no guarantee that all locations will experience rain/storms. High
+temperatures will remain above normal values, except for those
+areas that experience showers/storms near peak heating today and
+Tuesday.
+
+Surface analysis this morning revealed that a diffuse front was
+draped across the Low Rolling Plains and extended back to the
+northeast across western and central Texoma. This front will be
+the impetus for rain/storm chances over the next couple of days.
+Subtle isentropic upglide along the 305K theta surface was likely
+resulting in a slight uptick in isolated to widely scattered
+showers this morning. RAP isentropic progs suggest that this
+upglide will persist through the morning hours, roughly near and
+north of a Breckenridge to Denton to Paris line. Given the moist
+regime, I`ll advertise 30-50 PoPs through noon today across these
+regions. Slight chance PoPs exist south of this line to about the
+I-20 corridor. Lightning activity has been largely absent this
+morning and I`ll leave most activity as showers, except across
+extreme northeastern parts of the forecast area near Bonham and
+Paris where instability may be a little larger.
+
+Thunderstorms will become increasingly more probable this
+afternoon as daytime heating helps to bolster instability values
+to near 1500 J/kg. Forecast soundings for areas near and north of
+I-20 are characterized by a hot and well-mixed bounday layer
+(exhibiting an inverted-V type profile). While severe weather
+doesn`t appear likely at this time owing to the paltry deep layer
+wind shear (about 20-25 knots), the aformentioned sounding
+profile could support a gusty outflow wind potential. There`s also
+a threat for pockets of heavy rain this afternoon as most of
+North Texas will be within a zone of PWATs near or just above 2"
+per GOES PWAT product (which is about 175% of normal). The exact
+coverage of showers and thunderstorms is the tricky part to this
+forecast. Given the moist regime, my first inclination is to
+believe that the probability for large cold pool development---and
+thus the potential for slightly more organized/widespread
+storms---is on the low side. This would support a more
+conservative PoP forecast. If deep bounday layer mixing is able to
+transpire before convective initiation, it`s conceivable that the
+areal coverage of convection will be much greater and would
+warrant a more aggressive PoP than currently forecast. For now,
+I`ll keep PoPs capped at around 50 percent for locations near and
+north of I-20 this afternoon/early evening and will defer to the
+day shift to make adjustments based on radar trends and 12 UTC hi-
+res guidance. Otherwise, the first day of astronomical fall won`t
+feel like it for many locales across the area (especially Central
+Texas), except for maybe those locations that experience
+showers/storms at peak heating. If convection can form a decent
+cold pool, it may reinforce the front southward some, spelling at
+least a temporary cool down for some locales.
+
+Showers and storms should wane some this evening, though if the
+coverage is greater, it`s possible that activity may persist well
+into the night. I`ve advertised slight chance to chance PoPs in
+the hopes of capturing this potential with best rain and isolated
+thunderstorm chances remaining near and north of I-20. Overnight
+low temperatures are expected to fall into the 70s across the
+entire area. The urban areas will likely remain in the mid 70s.
+Low level southerly flow will likely push the diffuse frontal
+boundary northward. There could be a low end fog/mist potential as
+this boundary sloshes northward, but the potential looks too low
+to include in the forecast.
+
+From a synoptic meteorology standpoint, Tuesday appears quite
+similar to Monday with a weak frontal boundary draped across parts
+of North Texas. The one addition to the picture will be the
+presence of a mid-level vorticity max---possibly convectively
+induced. While there`s likely to be the addition of residual
+outflow boundaries from Monday, I`ll paint the highest PoPs based
+on the expected placement of the surface frontal boundary (likely
+near the US HWY 380 corridor) and track of the mid-level vorticity
+max. With this feature (the vort max) lifting northward during
+the mid to late morning hours, coupled with the increase in
+instability, there should be another round of showers and
+thunderstorms. Where rain/storms actually develop will be
+dependent on the development and track of the vort max as well as
+the placement of the surface frontal boundary and residual
+convective outflow. As a result, I`ll keep PoPs at or below 50
+percent given this uncertainty. At this time, however, it appears
+that areas near and north of US HWY 380 will stand the best chance
+for rain/storms on Tuesday.
+
+Bain
+
+&&
+
+.LONG TERM... /Issued 414 AM CDT Mon Sep 23 2019/
+
+/Wednesday Through Early Next Week/
+
+By the middle of the week, Texas will be sandwiched between a
+deepening cut-off low in the Desert Southwest and a subtropical
+ridge over the Gulf of Mexico. This relative weakness in the mid-
+level flow will maintain some low rain chances Wednesday and
+Thursday, but it still appears the midweek showers and
+thunderstorms will be primarily confined to the more vigorous
+westerly flow through the Texas Panhandle and Oklahoma. Although
+the core of the ridge will be displaced to our east, mid-level
+heights will above North and Central will still be anomalously
+high for late September. As a result, abundant sunshine will push
+afternoon temperatures into the low to mid 90s regionwide. Normal
+high temperatures on September 25 range from the lower 80s along
+the Red River to the upper 80s in Central Texas. While Wednesday`s
+highs may be as much as 10 degrees above normal, this is far from
+unprecedented. Our forecast high of 93F at DFW Airport has been
+matched (or bettered) more than 20 times historically on that
+calendar date, thus occurring more frequently than once every 6
+years. The record values at DFW (102F in 2005) and Waco (106F in
+2011) won`t be challenged. Although Wednesday may be the hottest
+day of the bunch, the heat will persist; but breezy south winds
+and increased cloud cover on Thursday will shave a degree or two
+off high temperatures.
+
+The cut-off low is now projected to slip well south of the U.S./
+Mexico border, settling over Baja California on Tuesday and
+Wednesday. Further separated from the polar flow, its ejection
+will be delayed. Despite the changes from previous outlooks,
+extended guidance appears to be using the same playbook, and the
+feature is expected to swing through the Texas Panhandle as a
+shearing open wave Friday night. Even with the slower evolution,
+its track will still be too far from North and Central Texas to
+provide much of a bump in PoPs. But with the onset of turbulent
+southwest flow above a moist and unstable boundary layer, Friday
+may still be the most favorable time period within the extended
+forecast for appreciable rainfall.
+
+As this system is absorbed into the polar flow this weekend,
+ridging will attempt to retrograde back into the Lone Star State,
+but the tropical conveyor on its western periphery may maintain
+some low shower/storm chances. The ridge will eventually take hold
+early next week, maintaining the unseasonably warm temperatures
+through the end of the month but also helping to reduce the influx
+of Gulf moisture. While not as mild as normal, the lower humidity
+will be a welcome change.
+
+25
+
+&&
+
+.CLIMATE... /Issued 414 AM CDT Mon Sep 23 2019/
+
+September Superlatives for Dallas/Fort Worth
+
+There have been 17 days this month with at least 95F at DFW
+Airport. This is just 4 days shy of the September record of 21
+days, set in 2005. While forecast highs are in the 90s the
+remainder of the month, this may be a tough record to match.
+
+For Dallas/Fort Worth, there has never been a September without
+temperatures in the 60s. DFW has so far remained above 70F the
+entire month, and all of the low temperatures we have in our
+forecast for the rest of the month are in the 70s.
+
+Through the 22nd, our current month is the 2nd warmest on record.
+The warm end to the month may challenge September 1939 and 2005 as
+the warmest September on record.
+
+There has been no measurable rainfall at DFW Airport this month.
+The driest September on record occurred during the multi-year
+drought in the early part of this decade: September 2014 tallied
+only 0.06" of rainfall. The last calendar month with no
+measurable precipitation at DFW Airport was August 2000 (0.00").
+
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    90  75  88  75  93 /  50  20  30   5  20
+Waco                94  73  94  72  95 /  10   5  10   5   5
+Paris               84  71  86  71  87 /  60  30  50  10  20
+Denton              89  73  87  74  93 /  50  20  40  10  20
+McKinney            89  72  86  74  92 /  50  20  40  10  20
+Dallas              91  75  88  76  94 /  50  20  30   5  20
+Terrell             91  73  88  73  94 /  40  20  20   5  10
+Corsicana           93  73  92  72  93 /  10   5  10   0   5
+Temple              93  73  94  72  93 /   5   5  10   0   5
+Mineral Wells       88  72  90  72  93 /  50  20  40  10  10
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+24/25

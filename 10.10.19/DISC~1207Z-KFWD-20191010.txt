@@ -1,0 +1,196 @@
+019
+FXUS64 KFWD 101207 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+707 AM CDT Thu Oct 10 2019
+
+.AVIATION...
+/12Z TAFs/
+
+Timeline of aviation impacts in Metroplex:
+- MVFR stratus this morning
+- gusty south winds today
+- evening thunderstorms, some may be severe
+- FROPA by midnight, gusty north winds through Friday
+- postfrontal showers and MVFR stratus Friday morning
+
+The impulse responsible for the elevated convection this morning
+is pushing east of the I-35 corridor. A few trailing showers may
+result in some light at Metroplex TAF sites through the morning
+push, but the thunderstorms will only be an issue for the
+northeast arrival corridor through mid-morning. An unrelated
+stratus deck beneath a strengthening inversion will slowly lift
+but persist into the afternoon. The 12Z RAOB from KFWD sampled a
+42-kt LLJ within the cloud-bearing layer, the momentum from which
+will increase the surface wind speeds and gustiness as the
+boundary layer deepens later this morning.
+
+A strong cold front, clearly visible on KAMA WSR-88D data, will
+steadily approach from the northwest today. Although the wind
+shift may not arrive in the Metroplex until late this evening,
+prefrontal thunderstorms, focused in a narrow window before
+FROPA, may disrupt the surface wind field. Some thunder will
+linger after the permanent wind shift, but the activity will
+transition to primarily showers during the early morning hours
+Friday. As the postfrontal layer deepens, MVFR stratus will
+slowly lift during the daylight hours Friday, eventually clearing
+Friday afternoon (currently beyond the scope of the 12Z TAF
+package).
+
+25
+
+&&
+
+.SHORT TERM... /Issued 411 AM CDT Thu Oct 10 2019/
+/Through Friday/
+
+The main corridor for ascent and convective activity has remained
+primarily to our northwest as unseasonably high mid-level heights
+have kept the bulk of North and Central Texas rain-free. However,
+our extended dry spell will likely come to an end as a potent
+cold front moves through the region tonight. In the meantime,
+another impulse ahead of the main system will yield some elevated
+showers and thunderstorms in our northwest zones through mid-
+morning, before lifting north of the Red River.
+
+A surface low is racing east through Kansas early this morning,
+well ahead of its parent cyclone, which is only now emerging from
+the Northern Rockies. The pull of the surface low has surged
+stratus northward, and North and Central Texas will be blanketed
+with clouds by daybreak. Despite the impressive warm advection
+regime, a strengthening capping inversion will keep the Gulf
+moisture separated from the elevated ascent transiting our
+northwest zones. The inversion will also slow the erosion of the
+cloud deck today; but even with considerably less sun than
+previous days, the low-level warm advection will allow afternoon
+temperatures to top 90 degrees, particularly south of the I-20
+corridor. Even with this extraordinary warmth and rich Gulf
+moisture, the warming above the boundary layer will reinforce the
+cap, and the radar scope will likely remain quiet until the front
+arrives late in the day.
+
+The cold front has already entered the Texas Panhandle and will
+make steady progress throughout the day, reaching our northwest
+zones before nightfall. Well separated from the main storm system
+lumbering through the Central Plains, the front should be largely
+free of convection until it reaches the richer moisture closer to
+the I-35 corridor. The initial development along the boundary may
+be during the early afternoon across central and southern
+Oklahoma, the southern extent of which may slip south of the Red
+River by mid-afternoon. Despite MLCAPE values surging over 2000
+J/kg at peak heating, convective initiation within North Texas may
+be limited to the mechanical forcing along the surface front.
+Rapidly developing updrafts may have a tendency to rotate, aided
+by the enhanced helicity near the boundary. These initial discrete
+cells could pose a tornado threat, but this window will be small
+as updrafts rooted in the unstable boundary layer will quickly
+become undercut with postfrontal air. Storm motion parallel to the
+advancing boundary will promote a steady evolution into a linear
+complex that will maintain a wind threat well into the evening
+hours. Embedded rotating updrafts will enhance the hail threat,
+which unlike the wind/tornado threats, will persist after the
+passage of the front.
+
+A linear complex along the front will make steady progress
+overnight, shifting south and east of the Dallas/Fort Worth
+Metroplex by midnight. Although the threat of damaging winds may
+diminish as the line moves into Central and East Texas during the
+early morning hours, a well defined gust front will struggle to
+outrun the frontal boundary, the storms remaining nearly
+coincident with the front. This sudden burst of wind may still
+exceed 40 mph during the predawn hours before the front clears
+our CWA before daybreak Friday morning.
+
+Dramatically colder air will pour into the region on Friday, many
+locations beginning the day in the 40s with brisk north winds.
+The combination of cold advection and postfrontal stratus may cap
+afternoon temperatures in the 50s though the sun will likely re-
+emerge Friday afternoon, particularly in areas north of the I-20
+corridor. Lingering showers will eventually end across Central and
+East Texas during the daylight hours, but the cloudy skies and
+breezy conditions will continue throughout the afternoon.
+
+25
+
+&&
+
+.LONG TERM... /Issued 411 AM CDT Thu Oct 10 2019/
+/Friday Night Onward/
+
+Cooler and substantially drier air will continue filtering into
+the forecast area Friday night as surface high pressure
+establishes itself across the Southern and Central Plains. This
+should set the stage for a crisp Saturday morning with
+temperatures reaching their coolest values since April. The
+combination of clearing skies and lessening wind speeds should
+make cooling particularly favorable across our northwestern
+zones, where some readings could approach the freezing mark. At a
+minimum, at least some patchy frost could be occur in these
+locales by daybreak Saturday. The rest of the forecast area will
+generally remain in the upper 30s and low 40s. Otherwise, a cool
+and pleasant fall day will be in store with highs climbing into
+the 60s.
+
+By Saturday evening, low-level southerly flow will intensify ahead
+of a fast-moving impulse transiting zonal flow aloft. This will
+significantly increase isentropic ascent above the cool and dry
+post-frontal air. Confidence has increased that this wave of
+ascent should be capable of initiating elevated convection as
+saturation occurs in the already-unstable 850-600mb layer,
+characterized by lapse rates of 7 C/km. Precipitation should
+largely consist of showery activity, although it`s not impossible
+some more robust convective updrafts could result in a few rumbles
+of thunder. If precipitation intensity is lighter than expected,
+it may be subject to some significant evaporation as it falls into
+the low theta-e airmass within the lowest 3 kft. The main time
+period for this potential will be Saturday night and Sunday
+morning, with activity tapering off to the east by Sunday
+afternoon. Afterwards, the clearing skies combined with southerly
+surface winds will result in a noteworthy warmup for most of the
+area, with highs returning to the upper 70s to around 80.
+
+Low-level moisture will largely remain scoured from the area until
+Monday, when a stronger warm advection regime establishes itself.
+Dewpoints should climb back into the upper 50s and 60s early in
+the week, while afternoon highs also return to above normal
+levels. The overall synoptic pattern during this time will
+feature continued fast zonal flow aloft, with weak disturbances
+occasionally rippling through. This will continue to provide the
+area with some low rain chances, although attempting to pin down
+these subtle features days in advance is a futile exercise. Will
+maintain some low broad PoPs mainly on Tuesday when ensemble data
+suggests the greatest rain chances may exist. Another frontal
+intrusion could occur late Tuesday or Wednesday, as an upper
+trough transiting the Upper Midwest pulls a weak cold front
+through the central CONUS. This would be a weaker front than its
+predecessor, although it could result in some additional low rain
+chances and near-normal temperatures during the midweek time
+period.
+
+-Stalley
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    90  47  60  41  66 /  10 100  50   5  10
+Waco                93  49  61  39  67 /  10 100  60  10  10
+Paris               87  46  58  37  61 /  10 100  60  10   5
+Denton              89  45  59  35  65 /  20 100  40   5  10
+McKinney            89  46  59  36  64 /  10 100  50   5  10
+Dallas              90  47  60  43  66 /   5 100  50   5  10
+Terrell             90  47  60  39  66 /   5 100  60  10  10
+Corsicana           92  50  60  42  64 /   5 100  60  10  10
+Temple              93  50  61  41  66 /  10 100  60  10  10
+Mineral Wells       90  45  60  35  65 /  20 100  40  10   5
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+25
